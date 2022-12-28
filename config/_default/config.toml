@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://avances123.github.io/buceo_avances123_es"
+baseurl = "https://buceo.avances123.es"
 languageCode = "es"
 paginate = 5
 title = "Mis apuntes de buceo"
