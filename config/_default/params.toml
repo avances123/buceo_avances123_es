@@ -5,7 +5,7 @@ rssFullContent = true
 
 [footer]
 since = 2021
-customText = "Mi texto de footer"
+customText = "Fabio Rueda"
 
 [dateFormat]
 published = "Jan 02, 2006"
