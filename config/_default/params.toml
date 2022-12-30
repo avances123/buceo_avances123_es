@@ -59,9 +59,10 @@ site = "avances123"
 card = "summary_large_image"
 
 [defaultImage.opengraph]
-enabled = false
+#The default image is the image that will be used on a page if no featured image is set. This is useful for Open Graph and Twitter cards.
+enabled = true
 local = false
-src = ""
+src = "https://buceo.avances123.es/p/bienvenida/bienvenida_hu993187665d6582fb7fb733f1d48385a8_1028282_1600x0_resize_q75_box.jpg"
 
 [colorScheme]
 toggle = false
