@@ -2,8 +2,9 @@
 title: "La maquina de hacer nudos"
 description: "Como hacer un aparato para hacer nudos en el carrete de buceo"
 date: 2022-11-20T00:47:56+01:00
-lastmod: 2022-11-20T12:52:12+01:00
+lastmod: 2022-12-20T12:52:12+01:00
 draft: false
+keywords: [buceo,cuevas,espeleologia]
 image: 20220120_202109.jpg.webp
 categories:
     - Equipo
@@ -55,7 +56,7 @@ He puesto dos marcas rojas, una con el metro exacto para hilos muy duros y otro 
 ![Mas marcas para distintos tipos de hilo](20220120_214648.jpg.webp)
 
 
-# Concluision
+# Conclusión
 
 Este articulo supongo que no servira para nada, excepto para animar a los exploradores a hacerlo tambien o que me contacten para conocer otras formas de hacerlo. Pero el video de youtube lo es todo, lo explica mucho mejor y mas detallado, y ademas con una bobina nueva de hilo en lugar del carrete existente.
 
