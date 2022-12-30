@@ -1,10 +1,15 @@
 ---
-title: Links
+title: Enlaces
 links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+  - title: Surveydown
+    description: Un gran topografo subacuatico basado en mexico
+    website: https://www.surveydown.com/
+    image: https://images.squarespace-cdn.com/content/v1/5f872a1e0559c85d25404ef9/1603051710548-WQZ1OZQO987PM0XTM2FU/Survey-Down-Logo.png?format=300w
+
+  - title: Subsurface
+    description: El referente opensource para registrar inmersiones
+    website: https://subsurface-divelog.org/
+    image: https://subsurface-divelog.org/wp-content/uploads/2015/10/subsurface-icon1.png
 menu:
     main: 
         weight: 4
@@ -12,22 +17,11 @@ menu:
             icon: link
 
 comments: false
+license: false
 ---
 
-To use this feature, add `links` section to frontmatter.
+¿Te has preguntado alguna vez qué hay detrás de esas páginas web donde colaboro? Bueno, la verdad es que hay mucho más de lo que puedes imaginar.
 
-This page's frontmatter:
+Por un lado, hay montones de personas trabajando arduamente para mantener estas páginas actualizadas y llenas de contenido interesante. Pero también hay un montón de cosas divertidas que ocurren detrás de escena.
 
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-```
-
-`image` field accepts both local and external images.
+Aqui te dejo una coleccion que te puede ser útil.

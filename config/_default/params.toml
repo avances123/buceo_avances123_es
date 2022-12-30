@@ -49,13 +49,13 @@ limit = 10
 type = "tag-cloud"
 
 [widgets.homepage.params]
-limit = 10
+limit = 20
 
 [[widgets.page]]
 type = "toc"
 
 [opengraph.twitter]
-site = ""
+site = "avances123"
 card = "summary_large_image"
 
 [defaultImage.opengraph]
@@ -64,7 +64,7 @@ local = false
 src = ""
 
 [colorScheme]
-toggle = true
+toggle = false
 default = "auto"
 
 [imageProcessing.cover]

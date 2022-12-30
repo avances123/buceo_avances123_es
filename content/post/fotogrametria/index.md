@@ -54,3 +54,12 @@ En resumen, la fotogrametría submarina es una técnica que se utiliza para medi
 
 # Fotogrametria con gopro
 
+La fotogrametría con cámaras de acción es una técnica que se utiliza para medir y analizar imágenes de alta resolución tomadas con cámaras de acción. Esta técnica se utiliza a menudo en aplicaciones como la cartografía, la topografía y la investigación científica.
+
+Las cámaras de acción son cámaras portátiles que se suelen utilizar para grabar vídeos y tomar fotografías en situaciones de alto rendimiento, como deportes extremos o actividades al aire libre. Estas cámaras suelen tener una alta resolución y una precisión de medición y son muy útiles para llevar a cabo análisis fotogramétricos.
+
+Para llevar a cabo un análisis fotogramétrico con cámaras de acción, es necesario tomar imágenes de alta calidad desde diferentes ángulos y con diferentes niveles de detalle. Estas imágenes deben ser tomadas con cámaras de acción especializadas que tienen una alta resolución y una precisión de medición.
+
+Una vez que se han tomado las imágenes, se utiliza software especializado para analizarlas y calcular las distancias y las dimensiones de los objetos. Este proceso se conoce como correlación de imágenes y se lleva a cabo mediante el uso de algoritmos especializados que comparan las imágenes y calculan las diferencias de distancia y tamaño entre ellas.
+
+En resumen, la fotogrametría con cámaras de acción es una técnica que se utiliza para medir y analizar imágenes de alta resolución tomadas con cámaras de acción. Esta técnica se utiliza a menudo en aplicaciones como la cartografía, la topografía y la investigación científica y se basa en el principio de que una imagen de alta resolución puede proporcionar información precisa sobre la forma y el tamaño de los objetos en ella.
