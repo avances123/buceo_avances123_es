@@ -76,15 +76,11 @@ enabled = true
 
 ## Comments
 [comments]
-enabled = false
+enabled = true
 provider = "disqus"
 
 [comments.disqusjs]
-shortname = ""
-apiUrl = ""
-apiKey = ""
-admin = ""
-adminLabel = ""
+shortname = "avances123-1"
 
 [comments.utterances]
 repo = ""
@@ -128,13 +124,13 @@ serverName = "cactus.chat"
 siteName = ""
 
 [comments.giscus]
-repo = ""
-repoID = ""
-category = ""
-categoryID = ""
-mapping = ""
-lightTheme = ""
-darkTheme = ""
+repo = "avances123/buceo_avances123_es"
+repoID = "R_kgDOIsCQDQ"
+category = "Announcements"
+categoryID = "DIC_kwDOIsCQDc4CTVDr"
+mapping = "pathname"
+lightTheme = "light"
+darkTheme = "dark"
 reactionsEnabled = 1
 emitMetadata = 0
 
