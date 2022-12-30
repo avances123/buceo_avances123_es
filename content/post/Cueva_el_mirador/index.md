@@ -37,7 +37,7 @@ Ademas planee volver con compañero para intentar la galeria inferior que era mu
 
 En esta topografia he aprendido a elegir siempre el perfil (extended elevation) de la topo segun el corte que sea mas representativo, en un principio quise hacer el acorde a la planta, pero he decidido elegir otro donde se vea la pared y la linea de costa de manera perpendicular, logrando que se entienda mucho mejor.  
 
-![Topografia de la cova de la finestra del romaní](topo.png)
+<!-- ![Topografia de la cova de la finestra del romaní](topo.png) -->
 
 
 
