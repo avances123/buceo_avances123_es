@@ -144,9 +144,7 @@ Dejo aqui tambien el [pdf](topo_arquets.pdf)
 
 ### Video
 
-Aqui dejo el video de una pasada hasta la punta y volver
-
-{{< youtube uY9y9woe71Y >}}
+Esta el video en mi canal de youtube
 
 ### Georeferenciación
 

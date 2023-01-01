@@ -45,8 +45,3 @@ He entrado varias veces en varias inmersiones, primero he intentado seguir hacia
 Pese a que faltan por aparecer galerias en el techo y alguna en los laterales por donde dificilmente cabe una persona, esta es la topografia de la cavidad
 
 ![Topografia de la cova de la finestra del romaní](topo.png)
-
-## Video comentado
-
-{{< youtube Odout7b5Mdg >}}
-
