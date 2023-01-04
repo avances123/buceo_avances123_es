@@ -7,6 +7,15 @@ weight = -100
 [main.params]
 icon = "home"
 
+[[main]]
+identifier = "instructor"
+name = "Cursos"
+url = "https://instructor.avances123.es"
+weight = 4
+[main.params]
+icon = "school"
+newtab = true
+
 
 [[social]]
 identifier = "github"
