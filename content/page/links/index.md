@@ -14,7 +14,7 @@ links:
 -   title: Cursos de buceo
     description: Mi pagina para la docencia
     website: https://instructor.avances123.es/
-    image: http://instructor.avances123.es/images/quien_soy.png
+    image: https://instructor.avances123.es/images/quien_soy.png
  
 menu:
     main: 
