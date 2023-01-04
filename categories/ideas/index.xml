@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ideas on Mis apuntes de buceo</title><link>https://buceo.avances123.es/categories/ideas/</link><description>Recent content in Ideas on Mis apuntes de buceo</description><generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Wed, 06 Apr 2022 00:47:56 +0100</lastBuildDate><atom:link href="https://buceo.avances123.es/categories/ideas/index.xml" rel="self" type="application/rss+xml"/><item><title>Meterologia para el buceo</title><link>https://buceo.avances123.es/p/meterologia-para-el-buceo/</link><pubDate>Wed, 06 Apr 2022 00:47:56 +0100</pubDate><guid>https://buceo.avances123.es/p/meterologia-para-el-buceo/</guid><description>&lt;img src="https://buceo.avances123.es/p/meterologia-para-el-buceo/entrada.png.webp" alt="Featured image of post Meterologia para el buceo" />&lt;h2 id="introducción">Introducción&lt;/h2>
+&lt;p>Cualquiera de nosotros, siempre que estemos planeando un buceo, nos preocupa cual sera el estado de la mar para el instante de la inmersion. Nuestro hobby favorito se desarrolla al aire libre y &lt;strong>dentro&lt;/strong> del medio marino, y eso hace que dependamos en un grado enorme de la meteorologia para poder efectuar nuestra inmersion con exito.&lt;/p>
+&lt;p>En mi opinion, no sirve de nada hacer una planificacion compleja de buceo y luego desatender una correcta interpretacion del tiempo esperado para ese dia. Esta meteo puede hacer que la inmersion se tenga que aplazar y es importante saberlo con la mayor seguridad posible.&lt;/p>
+&lt;p>Por supuesto casi todos tenemos una u otra manera de ver el estado de la mar para nuestros buceos, por mi interes sobre la materia siempre he preguntado, y en casi la totalidad de los casos, he visto que se consulta aplicaciones del movil de meteorologia. Estas apps tienen datos sobre el oleaje, sobre el viento, etc son muy comodas, gratuitas y estan siempre disponibles, pero en este post voy a centrarme en esas otras fuentes, un poco mas ocultas y no por ello menos utiles, que nos ayudaran mucho en la tarea.&lt;/p>
+&lt;p>Me voy a centrar en datos que no he visto usar a nadie y que puedo aportar a la comunidad de buceadores, y al final del post hablare de las apps convencionales y alguna mejora oculta que podemos utilizar para poder interpretar y hacer un pronostico mejorado.&lt;/p>
+&lt;h2 id="factores-meteorologicos-a-tener-en-cuenta">Factores meteorologicos a tener en cuenta&lt;/h2>
+&lt;p>Para hacer una correcta planificacion, deberiamos tener un pc delante y fijarnos en varios factores del tiempo que atañen al buceo, aqui estan enumerados, en todas ellas necesitamos saber el punto geografico de la inmersion y la fecha , puesto que tenemos que consultar la prediccion para ese lugar y tiempo especifico.&lt;/p>
+&lt;h3 id="altura-significativa-de-ola">Altura significativa de ola&lt;/h3>
+&lt;p>En mi opinion para mi la variable definitiva que determinara la viabilidad de la inmersion y que requiere la maxima precision posible de la prediccion en el punto. Para ello, en la peninsula iberica, utilizo el modelo meteorologico generado por &lt;a class="link" href="https://www.puertos.es/es-es/oceanografia/AccesoSimplificado" target="_blank" rel="noopener"
+>Puertos del Estado&lt;/a>. Este modelo se vale de las predicciones de viento de HARMONIE de AEMET y de HRES-ECMWF para los siguientes horizones pasadas las 48h. Ademas aporta datos de observaciones de varias boyas instaladas en las cercanias de los puertos que hacen que el modelo mejore bastante en esos puntos.&lt;/p>
+&lt;p>Por ejemplo si quisieramos informarnos sobre que ola tendremos en el pecio Dragonera, que esta en el puerto de tarragona, podriamos ver el modelo y su calidad prediciendo en ese punto.&lt;/p>
+&lt;p>&lt;img src="https://buceo.avances123.es/p/meterologia-para-el-buceo/2.png.webp"
+width="1615"
+height="268"
+srcset="https://buceo.avances123.es/p/meterologia-para-el-buceo/2.png_hu859581f705f0bafc393b84f0801dab0f_21854_480x0_resize_q75_h2_box_2.webp 480w, https://buceo.avances123.es/p/meterologia-para-el-buceo/2.png_hu859581f705f0bafc393b84f0801dab0f_21854_1024x0_resize_q75_h2_box_2.webp 1024w"
+loading="lazy"
+alt="Ultimos dias de prediccion/observacion en Tarragona"
+class="gallery-image"
+data-flex-grow="602"
+data-flex-basis="1446px"
+>&lt;/p>
+&lt;p>Para el pecio dragonera tenemos muchas suerte porque es un punto del que disponemos observaciones gracias a una boya que registra con granularidad horaria el dato de altura de ola. Hay varios puntos mas, siempre boyas que ayudan a la prediccion de oleaje &lt;em>en los puertos&lt;/em> ya que aún nos importan mas las olas en el mundo portuario que buceistico.&lt;/p>
+&lt;p>&lt;img src="https://buceo.avances123.es/p/meterologia-para-el-buceo/1.png.webp"
+width="838"
+height="635"
+srcset="https://buceo.avances123.es/p/meterologia-para-el-buceo/1.png_hu15bec8bc61a2e34c67732d70b4429d3a_73642_480x0_resize_q75_h2_box_2.webp 480w, https://buceo.avances123.es/p/meterologia-para-el-buceo/1.png_hu15bec8bc61a2e34c67732d70b4429d3a_73642_1024x0_resize_q75_h2_box_2.webp 1024w"
+loading="lazy"
+alt="Boyas con datos actualizados de altura de ola"
+class="gallery-image"
+data-flex-grow="131"
+data-flex-basis="316px"
+>&lt;/p>
+&lt;p>Esto no quiere decir que debamos interpolar nosotros la prediccion a mano en el punto que nos interese, el propio modelo nos proporciona una prediccion en toda la rejilla de puntos del modelo. Asi que podemos consultar la prediccion de nuestro punto.&lt;/p>
+&lt;p>&lt;img src="https://buceo.avances123.es/p/meterologia-para-el-buceo/3.png.webp"
+width="1019"
+height="687"
+srcset="https://buceo.avances123.es/p/meterologia-para-el-buceo/3.png_hud66389dfa69dd02ded89c13bda323f2a_139274_480x0_resize_q75_h2_box_2.webp 480w, https://buceo.avances123.es/p/meterologia-para-el-buceo/3.png_hud66389dfa69dd02ded89c13bda323f2a_139274_1024x0_resize_q75_h2_box_2.webp 1024w"
+loading="lazy"
+alt="Puntos de prediccion de oleaje"
+class="gallery-image"
+data-flex-grow="148"
+data-flex-basis="355px"
+>&lt;/p>
+&lt;p>Si consultamos un punto podemos ver los datos en formato tabla de todas las variables del modelo, no solo de la altura significativa, tambien podremos ver el periodo y la direccion de la ola, la componente de mar de fondo o de viento que tiene la ola etc. Tambien viene datos del viento en ese punto que siempre puede estar bien para hacerse una idea de los vientos locales y el estado de la mar por más una via de experiencia del observador.&lt;/p>
+&lt;p>&lt;img src="https://buceo.avances123.es/p/meterologia-para-el-buceo/4.png.webp"
+width="1050"
+height="475"
+srcset="https://buceo.avances123.es/p/meterologia-para-el-buceo/4.png_hua85e5af446a1f821d5083b54abda1a30_31046_480x0_resize_q75_h2_box_2.webp 480w, https://buceo.avances123.es/p/meterologia-para-el-buceo/4.png_hua85e5af446a1f821d5083b54abda1a30_31046_1024x0_resize_q75_h2_box_2.webp 1024w"
+loading="lazy"
+alt="Prediccion en un punto"
+class="gallery-image"
+data-flex-grow="221"
+data-flex-basis="530px"
+>&lt;/p>
+&lt;p>Ademas en &lt;a class="link" href="https://myocean.marine.copernicus.eu/data?view=dataset&amp;amp;dataset=MEDSEA_ANALYSISFORECAST_WAV_006_017" target="_blank" rel="noopener"
+>copernicus&lt;/a> disponemos de este modelo WAN sin ser mejorado por HARMONIE de Aemet.&lt;/p>
+&lt;h3 id="temperatura-del-agua">Temperatura del agua&lt;/h3>
+&lt;p>Esta variable nos afecta mucho en el buceo, pero realemente como tal , no se predice puesto que es bastante facil deducir la temperatura a partir de la fecha del año y anteriores observaciones para esa misma fecha en el pasado.&lt;/p>
+&lt;p>En &lt;a class="link" href="https://myocean.marine.copernicus.eu/light" target="_blank" rel="noopener"
+>Copernicus&lt;/a> podemos consultar la prediccion de temperatura en nuestro punto del oceano asi como un historico del modelo analizado.&lt;/p>
+&lt;p>&lt;img src="https://buceo.avances123.es/p/meterologia-para-el-buceo/5.png.webp"
+width="1913"
+height="928"
+srcset="https://buceo.avances123.es/p/meterologia-para-el-buceo/5.png_hu8785f01b0d90042a6123cb2d3ff024b1_77684_480x0_resize_q75_h2_box_2.webp 480w, https://buceo.avances123.es/p/meterologia-para-el-buceo/5.png_hu8785f01b0d90042a6123cb2d3ff024b1_77684_1024x0_resize_q75_h2_box_2.webp 1024w"
+loading="lazy"
+alt="Prediccion diaria de temperatura en el mar"
+class="gallery-image"
+data-flex-grow="206"
+data-flex-basis="494px"
+>&lt;/p>
+&lt;p>Aqui quiero aportar otra fuente que es bastante util para los viajes de buceo, donde queremos saber la temperatura en un punto del planeta ajeno a nuestra experiencia y latitudes, y queremos saber que abrigo llevarnos. En &lt;a class="link" href="https://climexp.knmi.nl/monthly_overview_world_weather/index.cgi?var=sst_ncep_w&amp;amp;mon1=jan&amp;amp;year1=2021&amp;amp;anomalie=nee&amp;amp;kort=nee&amp;amp;expert=nee&amp;amp;type=kaartwereld" target="_blank" rel="noopener"
+>WMO&lt;/a> podemos explorar la temperatura media de un mes en cualquier punto del planeta, no es preciso, pero nos puede ayudar a planificar un viaje sabiendo la fecha y el destino.&lt;/p>
+&lt;p>&lt;img src="https://buceo.avances123.es/p/meterologia-para-el-buceo/6.png.webp"
+width="876"
+height="870"
+srcset="https://buceo.avances123.es/p/meterologia-para-el-buceo/6.png_hu14ab6479aacae6b1bf9f0a222bfd11f1_51086_480x0_resize_q75_h2_box_2.webp 480w, https://buceo.avances123.es/p/meterologia-para-el-buceo/6.png_hu14ab6479aacae6b1bf9f0a222bfd11f1_51086_1024x0_resize_q75_h2_box_2.webp 1024w"
+loading="lazy"
+alt="Informacion de temperatura de agua mensual"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="241px"
+>&lt;/p>
+&lt;h3 id="corriente">Corriente&lt;/h3>
+&lt;p>Esta variable nos afecta tambien en el buceo, y que buceador no habra soñado con saber que dia no habra corriente en ese pecio tan increible? pero esa variable la he estudiado menos a dia de hoy. Veo que existe un dato de velocidad del agua en el plano horizontal pero no entiendo aun que niveles verticales se usan para medir y/o predecir.&lt;/p>
+&lt;p>En &lt;a class="link" href="https://myocean.marine.copernicus.eu/data?view=dataset&amp;amp;dataset=MEDSEA_ANALYSISFORECAST_PHY_006_013" target="_blank" rel="noopener"
+>copernicus&lt;/a> podemos ver los datos de corriente en varios datasets, es la variable que esta disponible en windy tambien, no he podido nunca repetir tantas veces una inmersion como para contrastar como buceador si es util, pero estaria genial poder hacerlo.&lt;/p>
+&lt;p>&lt;img src="https://buceo.avances123.es/p/meterologia-para-el-buceo/7.png.webp"
+width="1709"
+height="896"
+srcset="https://buceo.avances123.es/p/meterologia-para-el-buceo/7.png_hu93668a7e35d6905a33ecc0cd57584396_98968_480x0_resize_q75_h2_box_2.webp 480w, https://buceo.avances123.es/p/meterologia-para-el-buceo/7.png_hu93668a7e35d6905a33ecc0cd57584396_98968_1024x0_resize_q75_h2_box_2.webp 1024w"
+loading="lazy"
+alt="Prediccion de corriente marina"
+class="gallery-image"
+data-flex-grow="190"
+data-flex-basis="457px"
+>&lt;/p>
+&lt;h3 id="lluvia-y-viento">LLuvia y viento&lt;/h3>
+&lt;p>Aunque conviene mirar tambien estas variables, yo al menos las considero menos importantes aunque pueden derivar en otras como la &lt;strong>visibilidad&lt;/strong> que sí nos interesan, haciendo un estudio de los dias pasados sobre lluvia y temporales podemos deducir una mala o buena visibilidad por ejemplo.&lt;/p>
+&lt;p>Tambien podemos planear si vamos en velero, o si el porteo del equipo nos obliga a andar bajo la lluvia o cualquier otro motivo mas extravagante y nos puedan afectar estas variables, en todo caso para ellas remito al punto siguiente sobre las apps convencionales.&lt;/p>
+&lt;h2 id="la-via-convencional">La via convencional&lt;/h2>
+&lt;p>Para consultar la meteo en un punto, usaremos la aplicacion &lt;a class="link" href="https://windy.com" target="_blank" rel="noopener"
+>windy&lt;/a>, habia varias mas, pero ya se esta poniendo bastante de moda entre cualquiera esta aplicacion que es la que reune mayor numero de capas, modelos y datos.&lt;/p>
+&lt;p>Recomiendo para una planificacion seria, usar el pc en lugar del movil a ser posible, ahi podemos valernos de toda la interfaz de la aplicacion. En ella podemos ver la informacion de todas las variables anteriormente descritas, pagamos un poco de precision en el punto pero ganamos poder tener una prediccion en cualquier punto del planeta, no solo en la peninsula iberica.&lt;/p>
+&lt;p>Ademas de consultar el oleaje aqui, podemos consultar mas el &amp;ldquo;como estara el dia&amp;rdquo; en general, (temperatura, lluvia y viento) y para ello en lugar de abrir la app y ver la prediccion primera que nos proporciona, recomiendo hacer una vista &lt;strong>multimodelo&lt;/strong> de estas variables, aqui indico cómo:&lt;/p>
+&lt;p>&lt;img src="https://buceo.avances123.es/p/meterologia-para-el-buceo/8.png.webp"
+width="1915"
+height="249"
+srcset="https://buceo.avances123.es/p/meterologia-para-el-buceo/8.png_hu755d18c5c63d32785a36793b8ebd913d_40216_480x0_resize_q75_h2_box_2.webp 480w, https://buceo.avances123.es/p/meterologia-para-el-buceo/8.png_hu755d18c5c63d32785a36793b8ebd913d_40216_1024x0_resize_q75_h2_box_2.webp 1024w"
+loading="lazy"
+alt="1. Vamos a la prediccion en el punto y le damos al boton comparar"
+class="gallery-image"
+data-flex-grow="769"
+data-flex-basis="1845px"
+>&lt;/p>
+&lt;p>&lt;img src="https://buceo.avances123.es/p/meterologia-para-el-buceo/9.png.webp"
+width="1438"
+height="819"
+srcset="https://buceo.avances123.es/p/meterologia-para-el-buceo/9.png_hu215110a4de0df881c28015c562f529fb_103182_480x0_resize_q75_h2_box_2.webp 480w, https://buceo.avances123.es/p/meterologia-para-el-buceo/9.png_hu215110a4de0df881c28015c562f529fb_103182_1024x0_resize_q75_h2_box_2.webp 1024w"
+loading="lazy"
+alt="2. Vemos las mismos datos pero producidos por varios modelos"
+class="gallery-image"
+data-flex-grow="175"
+data-flex-basis="421px"
+>&lt;/p>
+&lt;p>Esto nos ayudara si vemos consenso en la prediccion o si vemos discrepancia entre modelos. No deja de ser lo mismo , una consulta de como va a ir el tiempo, pero viendolo a traves de 4 o 5 fuentes que siempre nos puede dar una mayor vision del grado de incertidumbre que manejan los modelos para ese punto en el tiempo especifico.&lt;/p></description></item><item><title>Sidemount,acero ligero y agua fría</title><link>https://buceo.avances123.es/p/sidemountacero-ligero-y-agua-fr%C3%ADa/</link><pubDate>Mon, 03 Jan 2022 18:17:52 +0100</pubDate><guid>https://buceo.avances123.es/p/sidemountacero-ligero-y-agua-fr%C3%ADa/</guid><description>&lt;img src="https://buceo.avances123.es/p/sidemountacero-ligero-y-agua-fr%C3%ADa/Painted-Cylinder-Colors.jpg.webp" alt="Featured image of post Sidemount,acero ligero y agua fría" />&lt;h1 id="me-gusta-el-acero-ligero">Me gusta el acero ligero&lt;/h1>
+&lt;p>Yo soy un buceador que bucea en sidemount, y tengo dos botellas de acero ligero, me parecen las mas versatiles, por supuesto cada buceador tendra sus preferencias y nunca nada es la solucion perfecta, y menos en este asunto.&lt;/p>
+&lt;p>Mis razones fundamentales para usarlas con respecto a otro tipo de botellas, son estas:&lt;/p>
+&lt;ul>
+&lt;li>Las de aluminio tienen 11L, estas tienen 12L y se comportan casi igual debajo del agua.&lt;/li>
+&lt;li>Las de acero pesado, siempre son negativas y para manipularlas en sidemount debajo del agua es sencillamente imposible.&lt;/li>
+&lt;li>Me permite bucear con traje humedo perfectamente&lt;/li>
+&lt;/ul>
+&lt;p>De hecho llevo un par de años usandolas, y cada vez veo mas gente con el mismo tipo de botellas y configuracion.&lt;/p>
+&lt;h1 id="hay-un-problema-con-el-acero-ligero">Hay un problema con el acero ligero&lt;/h1>
+&lt;p>Despues de enamorarme de las botellas y no parar de bucear con ellas, me he dado cuenta de un caso en el que se torna complicado bucear con ellas,&lt;/p>
+&lt;blockquote>
+&lt;p>En agua muy fria, me pongo una rata gorda que flota mucho, y necesito mas lastre del que puedo meter en el ala de buceo.&lt;/p>
+&lt;/blockquote>
+&lt;p>Despues de llenar el ala xdeep stealth 2.0 hasta arriba de plomos, me tenia que seguir agarrando a las piedras y cabos para no salir escopetado a la superficie.&lt;/p>
+&lt;h1 id="soluciones-que-he-ido-viendo">Soluciones que he ido viendo&lt;/h1>
+&lt;p>En todo este tiempo he ido preguntando a otros buceadores sobre este problema y como lo solucionaban, he visto dos soluciones que hace la gente&lt;/p>
+&lt;ul>
+&lt;li>Tener otro juego de botellas de acero pesado para esta situacion, no es mala puesto que el 99% de las inmersiones no necesitamos mover las botellas para pasar restricciones, asi que puede ser considerada&lt;/li>
+&lt;li>Fundir plomo, y crear bloques mas grandes exactos para maximizar el espacio del ala, se supone que admite 2kg en cada slot, pero asi podrian entrar 3kg creando el bloque exacto. Parece de risa hacer eso pero lo he visto tambien.&lt;/li>
+&lt;/ul>
+&lt;h1 id="mi-solucion">Mi solucion&lt;/h1>
+&lt;p>Realmente no es mia, recuerdo a mi instructor Javier de Miguel, que es un gran apneista (instructor tambien), que usaba un chaleco para apena dentro del traje seco, y eureka! podria llevar 5kg dentro del seco, pegados a mi espalda de manera comoda, y luego lastrar el ala como mas me convenga.&lt;/p>
+&lt;p>Asi puedo restar 5kg a los bolsillos del ala y poder ir lastrado correctamente con el acero ligero. Digamos que ese peso que dan las botellas de acero pesado a los buceadores de backmount, los pongo en el chaleco de apnea interno.&lt;/p>
+&lt;p>Aqui la foto del chaleco por si a alguien le interesa:&lt;/p>
+&lt;p>&lt;img src="https://buceo.avances123.es/p/sidemountacero-ligero-y-agua-fr%C3%ADa/20220106_214920.jpg"
+width="4000"
+height="1800"
+srcset="https://buceo.avances123.es/p/sidemountacero-ligero-y-agua-fr%C3%ADa/20220106_214920_hu103c915ea7b3f170a638f12aab97cfeb_1124813_480x0_resize_q75_box.jpg 480w, https://buceo.avances123.es/p/sidemountacero-ligero-y-agua-fr%C3%ADa/20220106_214920_hu103c915ea7b3f170a638f12aab97cfeb_1124813_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Chaleco para llevar lastre"
+class="gallery-image"
+data-flex-grow="222"
+data-flex-basis="533px"
+>&lt;/p>
+&lt;h1 id="conclusion">Conclusion&lt;/h1>
+&lt;p>Ahora ya puedo bucear con mis dos botellas principales tambien en agua fria y con la rata gorda sin problemas de ningun tipo.&lt;/p>
+&lt;p>Como siempre, habra otras soluciones o para mucha gente esto sera evidente, pero me gusta documentar los principales escollos a los que me enfrento por si a alguien le puede servir. Espero que si!&lt;/p></description></item><item><title>Bienvenida</title><link>https://buceo.avances123.es/p/bienvenida/</link><pubDate>Fri, 10 Dec 2021 23:30:26 +0100</pubDate><guid>https://buceo.avances123.es/p/bienvenida/</guid><description>&lt;img src="https://buceo.avances123.es/p/bienvenida/bienvenida.jpg" alt="Featured image of post Bienvenida" />&lt;p>¡Hola a todos! Mi nombre es Fabio Rueda y soy un buceador de cuevas certificado por la agencia IANTD. Desde hace más de 5 años, he estado explorando y buceando en cuevas submarinas de todo el mundo y me encanta compartir mi experiencia y conocimientos con otros amantes del buceo.&lt;/p>
+&lt;p>El buceo en cuevas es una actividad que requiere de una alta habilidad técnica y un conocimiento profundo de la seguridad en el agua. Por eso, he obtenido varias certificaciones adicionales para poder realizar este tipo de buceo de manera segura.&lt;/p>
+&lt;p>En mis inmersiones en cuevas, siempre me aseguro de seguir las mejores prácticas de seguridad y respetar el medio ambiente. También me encargo de mantener y revisar mi equipo de buceo de manera regular para garantizar su funcionamiento adecuado.&lt;/p>
+&lt;p>Si estás interesado en explorar el mundo submarino a través del buceo en cuevas, no dudes en ponerte en contacto conmigo. Estoy dispuesto a ayudarte a disfrutar de esta actividad emocionante de manera segura y a compartir mis conocimientos contigo. ¡Espero poder sumergirme contigo pronto!&lt;/p></description></item></channel></rss>
