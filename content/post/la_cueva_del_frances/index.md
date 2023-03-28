@@ -6,8 +6,8 @@ image: logo.jpg
 math: 
 license: 
 hidden: false
-comments: true
-draft: true
+comments: false
+draft: false
 ---
 
 
