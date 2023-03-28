@@ -11,11 +11,7 @@ links:
     website: https://subsurface-divelog.org/
     image: https://subsurface-divelog.org/wp-content/uploads/2015/10/subsurface-icon1.png
 
-  - title: Cursos de buceo
-    description: Mi pagina para la docencia
-    website: https://instructor.avances123.es/
-    image: https://instructor.avances123.es/images/quien_soy.png
- 
+
 menu:
     main: 
         weight: 4

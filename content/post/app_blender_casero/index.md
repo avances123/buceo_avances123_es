@@ -1,6 +1,6 @@
 ---
 title: "Otra aplicacion para blender"
-date: 2022-11-07T16:28:39+01:00
+date: 2023-01-07T16:28:39+01:00
 draft: false
 image: banner.png
 categories:
