@@ -63,6 +63,8 @@ Aqui quiero aportar otra fuente que es bastante util para los viajes de buceo, d
 
 ![Informacion de temperatura de agua mensual](6.png.webp)
 
+Tambien la nasa tiene otra mision llamada [MUR](https://podaac.jpl.nasa.gov/dataset/MUR-JPL-L4-GLOB-v4.1) que mide la temperatura marina a escala global, se puede visualizar con la herramienta de la nasa [worldview](https://soto.podaac.earthdatacloud.nasa.gov/?v=-18.78720059082591,30.727507641081075,21.28282587652165,50.51208320933394)
+
 ### Corriente
 
 Esta variable nos afecta tambien en el buceo, y que buceador no habra soñado con saber que dia no habra corriente en ese pecio tan increible? pero esa variable la he estudiado menos a dia de hoy. Veo que existe un dato de velocidad del agua en el plano horizontal pero no entiendo aun que niveles verticales se usan para medir y/o predecir.
