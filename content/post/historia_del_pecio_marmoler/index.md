@@ -65,7 +65,7 @@ El mes siguiente, participa en el desembarco de Normandia haciendo de barco de t
 
 ## Ultimos días
 En 1062 el barco cambia de dueño a Italia y en 1969 se cambia el nombre a **Avvenire**.
-En ruta de Viareggio a Barcelona con un cargamento de bloques de mármol, encalló durante la niebla en Punta Grossa y se hundió frente a La Escala (costa noreste de España). La tripulación fue rescatada.
+En ruta de Viareggio a Barcelona el dia 17 de Mayo de 1971 con un cargamento de bloques de mármol, encalló durante la niebla en Punta Grossa y se hundió frente a La Escala (costa noreste de España). La tripulación fue rescatada.
 
 
 ## Fotos del buque
