@@ -82,3 +82,8 @@ En ruta de Viareggio a Barcelona el dia 17 de Mayo de 1971 con un cargamento de 
 ![Aurora Prima](9.png)
 ![Diana Prima](10.png)
 ![Avvenire](11.png)
+
+## Referencias
+NAUFRAGIS A LA MAR DE L ALT EMPORDA , ENRIC TRILLA MORATO
+SOLO EL MAR LO SABE, RAFAEL ESPINÓS
+https://www.marhisdata.nl/
