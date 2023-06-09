@@ -6,7 +6,6 @@ image: banner.png
 categories:
     - Software
 tags:
-    - Blending
     - Gases
     - Aplicacion
 ---

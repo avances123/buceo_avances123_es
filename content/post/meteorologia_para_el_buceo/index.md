@@ -10,7 +10,6 @@ categories:
 tags:
     - Ideas
     - Mar
-    - Meteo
 ---
 
 ## Introducción

@@ -9,7 +9,6 @@ categories:
 tags:
     - Equipo
     - Sidemount
-    - Botellas
     - Opinion
 ---
 
