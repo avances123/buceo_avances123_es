@@ -1,5 +1,5 @@
 ---
-title: "Sidemount,acero ligero y agua fría"
+title: "Sidemount,acero ligero y agua fria"
 date: 2022-01-03T18:17:52+01:00
 lastmod: 2022-01-17T12:52:12+01:00
 draft: false
