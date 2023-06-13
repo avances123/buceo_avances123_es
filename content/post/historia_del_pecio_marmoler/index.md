@@ -50,7 +50,7 @@ Podremos acceder mediante una navegación de una media hora saliendo desde el pu
 | Profundidad | 3,05 metros |
 | Calado maximo | 2,81 metros |
 
-# Su historia
+# Su historia 
 ## Construccion y puesta operativa
 El buque se construyo en Alblasserdam, Paises Bajos, por la naviera NV Industrieele Maatschappij 'De Noord', se vendio el 1930-01-15  con el nombre de **Flying Scotsman** y establecio su base en el puerto de Roterdam
 
@@ -64,7 +64,7 @@ El mes siguiente, participa en el desembarco de Normandia haciendo de barco de t
 
 ![Convoy EBC-7 de la WWII](convoy.png)
 
-## Ultimos días
+## Ultimos días en Italia
 En 1062 el barco cambia de dueño a Italia y en 1969 se cambia el nombre a **Avvenire**.
 En ruta de Viareggio a Barcelona el dia 17 de Mayo de 1971 con un cargamento de bloques de mármol, encalló durante la niebla en Punta Grossa y se hundió frente a La Escala (costa noreste de España). La tripulación fue rescatada.
 
@@ -84,3 +84,11 @@ En ruta de Viareggio a Barcelona el dia 17 de Mayo de 1971 con un cargamento de 
 ![Diana Prima](10.webp)
 ![Avvenire](11.png)
 
+
+# Mas datos sobre el Evertsen
+### Vision de las dos bodegas de carga
+El croquis famoso de la guia de buceo tiene un error fundamental, y es que señala 3 agujeros iguales en la cubierta cuando en realidad eran 2 con una grua en medio como se puede ver aqui:
+
+<iframe width="800" height="515" src="https://www.youtube.com/embed/GwTYzb8w08U?clip=UgkxWdEvprIJiNNKuOBQ3q2nHGyvaI-QmB99&amp;clipt=EMikBRiw2wY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Estas dos bodegas parece que en su ultima travesia ya tenia vigas separadoras para hacer los huecos mas pequeños, aunque dentro cada una de las dos bodegas sigue manteniendo su espacio planeado
