@@ -80,6 +80,6 @@ En ruta de Viareggio a Barcelona el dia 17 de Mayo de 1971 con un cargamento de 
 ![Evertsen](8.png)
 
 ![Aurora Prima](9.png)
-![Diana Prima](10.png)
+![Diana Prima](10.webp)
 ![Avvenire](11.png)
 

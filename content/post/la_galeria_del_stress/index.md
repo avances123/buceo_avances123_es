@@ -43,7 +43,7 @@ Despues ya en casa, junto con la poligonal y las paredes que iba dibujando graci
 
 Con esta imagen, en therion he logrado pasar todos los elementos. Aunque sinceramente creo que a mi me gusta mas el dibujo a lapiz
 
-![Trabajando en therion con el dibujo](1.png)
+![Trabajando en therion con el dibujo](1.webp)
 
 
 ## Resultado

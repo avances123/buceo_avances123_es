@@ -34,11 +34,11 @@ He entrado varias veces en varias inmersiones, primero he intentado seguir hacia
 
 
 ## Fotos relevantes
-![El tunel inferior visto desde la parte de arriba](1.png)
-![Foto volviendo por la galeria inferior donde se pueden ver las dos entradas](2.png)
+![El tunel inferior visto desde la parte de arriba](1.webp)
+![Foto volviendo por la galeria inferior donde se pueden ver las dos entradas](2.webp)
 
-![Vista del pozo que comunica con la galeria inferior](3.png)
-![Antes de sacar la cabeza en la lamina de agua](4.png)
+![Vista del pozo que comunica con la galeria inferior](3.webp)
+![Antes de sacar la cabeza en la lamina de agua](4.webp)
 
 ## Topografia
 
