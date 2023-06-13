@@ -12,6 +12,8 @@ tags:
     - Mar
 ---
 
+# Como determinar la meteorologia para bucear
+
 ## Introducción
 
 Cualquiera de nosotros, siempre que estemos planeando un buceo, nos preocupa cual sera el estado de la mar para el instante de la inmersion. Nuestro hobby favorito se desarrolla al aire libre y **dentro** del medio marino, y eso hace que dependamos en un grado enorme de la meteorologia para poder efectuar nuestra inmersion con exito.
