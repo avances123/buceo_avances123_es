@@ -6,8 +6,7 @@ draft: false
 image: 1.jpg.webp
 categories:
     - Equipo
-tags:
-    - Equipo
+
 ---
 
 # El material que uso

@@ -7,7 +7,6 @@ image: Painted-Cylinder-Colors.jpg.webp
 categories:
     - Ideas
 tags:
-    - Equipo
     - Sidemount
     - Opinion
 ---

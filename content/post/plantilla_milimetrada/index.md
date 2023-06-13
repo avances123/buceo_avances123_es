@@ -7,8 +7,7 @@ image: portada.jpg.webp
 categories:
     - Equipo
 tags:
-    - Equipo
-    - Exploracion
+    - Cueva
 ---
 
 # Una plantilla para topografiar cuevas

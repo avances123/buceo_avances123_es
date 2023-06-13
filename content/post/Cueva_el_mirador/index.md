@@ -8,7 +8,6 @@ image: 1.png.webp
 categories:
     - Exploracion
 tags:
-    - Exploracion
     - Topografia
     - Cueva
     - Mar

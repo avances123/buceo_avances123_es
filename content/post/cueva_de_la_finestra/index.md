@@ -10,7 +10,6 @@ keywords:
 categories:
     - Exploracion
 tags:
-    - Exploracion
     - Topografia
     - Cueva
     - Mar

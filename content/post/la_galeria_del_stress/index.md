@@ -9,7 +9,6 @@ categories:
     - Exploracion
 tags:
     - Topografia
-    - Exploracion
     - Cueva
     - Aplicacion
 ---
