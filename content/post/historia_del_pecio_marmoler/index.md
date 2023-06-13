@@ -86,7 +86,7 @@ En ruta de Viareggio a Barcelona el dia 17 de Mayo de 1971 con un cargamento de 
 
 
 # Mas datos sobre el Evertsen
-### Vision de las dos bodegas de carga
+## Vision de las dos bodegas de carga
 El croquis famoso de la guia de buceo tiene un error fundamental, y es que señala 3 agujeros iguales en la cubierta cuando en realidad eran 2 con una grua en medio como se puede ver aqui:
 
 <iframe width="800" height="515" src="https://www.youtube.com/embed/GwTYzb8w08U?clip=UgkxWdEvprIJiNNKuOBQ3q2nHGyvaI-QmB99&amp;clipt=EMikBRiw2wY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
