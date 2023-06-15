@@ -70,8 +70,9 @@ El mes siguiente, participa en el desembarco de Normandia haciendo de barco de t
 Aqui me queda mas por investigar, lo intento con mucha pasion, y me resulta dificil creer que no hay mas informacion sobre los convoyes de carga que hubo en el desembarco de Normandia, asi que seguire intentandolo
 
 ### Ultimos días
-En 1959 el barco cambia de dueño a Italia y va cambiando de nombre y dueños (**Luga**, **Aurora Prima** y **Diana Prima**), en 1969 se cambia el nombre a **Avvenire** con dueño Vittorio Paladini
-En ruta de Viareggio a Barcelona el dia 17 de Mayo de 1971 con un cargamento de bloques de mármol de Carrara, ciudad que estaba a 36km de Viareggio el último puerto base del buque, encalló durante la niebla en Punta Grossa y se hundió frente a La Escala (costa noreste de España). La tripulación fue rescatada.
+En 1959 el barco cambia de dueño a Italia y va cambiando de nombre y dueños (**Luga**, **Aurora Prima** y **Diana Prima**), en 1969 se cambia el nombre a **Avvenire** con dueño Vittorio Paladini.
+
+En ruta de Viareggio a Barcelona el dia 17 de Mayo de 1971 con un cargamento de bloques de mármol de Carrara, ciudad que estaba a 36km del último puerto base del buque, encalló durante la niebla en Punta Grossa y se hundió frente a La Escala (costa noreste de España). La tripulación fue rescatada.
 
 
 ## Fotos del buque
