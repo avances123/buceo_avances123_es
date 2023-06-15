@@ -53,7 +53,9 @@ Podremos acceder mediante una navegación de una media hora saliendo desde el pu
 
 ## Su historia
 ### Construccion y puesta operativa
-El buque se construyo en Alblasserdam, Paises Bajos, por la naviera NV Industrieele Maatschappij 'De Noord', se vendio el 1930-01-15  con el nombre de **Flying Scotsman** y establecio su base en el puerto de Roterdam.
+El buque se construyo en Alblasserdam, Paises Bajos, por la naviera NV Industrieele Maatschappij !['De Noord'](https://nl.wikipedia.org/wiki/De_Noord_(scheepswerf)), El 11 de mayo de 1940, los edificios de la empresa fueron destruidos en un bombardeo alemán. 
+
+se vendio el 1930-01-15  con el nombre de **Flying Scotsman** y establecio su base en el puerto de Roterdam.
 
 Segun he investigado, el Flying Scotsman fue un tren famosisimo en su epoca, el primero en lograr la velocidad de 100mph mas info ![aqui](https://www.railwaymuseum.org.uk/objects-and-stories/history-flying-scotsman).
 
