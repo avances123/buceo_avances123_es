@@ -9,6 +9,7 @@ categories:
 tags:
     - Opinion
 ---
+# Explicacion sobre mi blog de buceo
 
 ¡Hola a todos! Mi nombre es Fabio Rueda y soy un buceador de cuevas certificado por la agencia IANTD. Desde hace más de 5 años, he estado explorando y buceando en cuevas submarinas de todo el mundo y me encanta compartir mi experiencia y conocimientos con otros amantes del buceo.
 

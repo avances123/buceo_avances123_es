@@ -5,8 +5,6 @@ draft: true
 image: 20220608_160841.jpg
 categories:
     - Ideas
-tags:
-    - Equipo
 ---
 
 # Cual es el problema

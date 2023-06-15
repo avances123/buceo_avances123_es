@@ -1,6 +1,6 @@
 ---
 title: "Cova del mirador"
-description: "Diario de la exploracion de una cueva submarina en la costa brava"
+description: "Diario de la exploracion de una cueva submarina en l'escala"
 date: 2022-09-06T00:47:56+01:00
 lastmod: 2022-09-06T12:52:12+01:00
 draft: false
@@ -8,7 +8,6 @@ image: 1.png.webp
 categories:
     - Exploracion
 tags:
-    - Exploracion
     - Topografia
     - Cueva
     - Mar

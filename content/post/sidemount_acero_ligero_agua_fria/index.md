@@ -1,13 +1,12 @@
 ---
-title: "Sidemount,acero ligero y agua fría"
+title: "Sidemount,acero ligero y agua fria"
 date: 2022-01-03T18:17:52+01:00
-lastmod: 2022-01-17T12:52:12+01:00
+lastmod: 2023-06-14T12:52:12+01:00
 draft: false
 image: Painted-Cylinder-Colors.jpg.webp
 categories:
     - Ideas
 tags:
-    - Equipo
     - Sidemount
     - Opinion
 ---
@@ -51,6 +50,8 @@ Aqui la foto del chaleco por si a alguien le interesa:
 
 
 ![Chaleco para llevar lastre](20220106_214920.jpg)
+
+Tambien para los mas aventureros, se puede hacer una mezcla entre fundir acero y usar el chaleco, y es fundirlo con un molde para que entren en el chaleco en lugar del ala.
 
 # Conclusion
 

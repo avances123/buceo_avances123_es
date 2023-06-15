@@ -7,10 +7,10 @@ image: portada.jpg.webp
 categories:
     - Equipo
 tags:
-    - Equipo
-    - Exploracion
+    - Cueva
 ---
 
+# Una plantilla para topografiar cuevas
 
 He adaptado la plantilla de [Derek Bristol](https://www.derekbristol.com/survey-efficiency) para hacer croquis de espeleologia, traduciendolo al español y añadiendo algun campo que otro. En todo caso igual que ha hecho él, voy a compartir el fichero de inkscape para poder editarlo quien quiera, y tambien el pdf para simplemente imprimirlo y usarlo.
 

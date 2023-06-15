@@ -20,6 +20,7 @@ menu:
 
 comments: false
 license: false
+description: Coleccion de enlaces sobre buceo
 ---
 
 ¿Te has preguntado alguna vez qué hay detrás de esas páginas web donde colaboro? Bueno, la verdad es que hay mucho más de lo que puedes imaginar.

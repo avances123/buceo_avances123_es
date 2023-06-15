@@ -9,8 +9,8 @@ image: 20220120_202109.jpg.webp
 categories:
     - Equipo
 tags:
-    - Exploracion
     - Topografia
+    - Mar
 ---
 
 # Cual es el problema

@@ -8,9 +8,11 @@ image: entrada.png.webp
 categories:
     - Ideas
 tags:
-    - Ideas
     - Mar
+    - Documentacion
 ---
+
+# Como determinar la meteorologia para bucear
 
 ## Introducción
 
