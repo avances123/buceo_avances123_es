@@ -1,7 +1,7 @@
 ---
 title: "Historia del pecio marmoler"
 description: "Sus otros nombres, fotos y antiguos registros"
-date: 2023-06-03T01:04:39+02:00
+date: 2023-06-15T01:04:39+02:00
 image: grande.png
 math: 
 license: 
