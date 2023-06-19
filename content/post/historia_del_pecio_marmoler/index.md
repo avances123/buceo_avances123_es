@@ -1,7 +1,7 @@
 ---
 title: "Historia del pecio marmoler"
 description: "Sus otros nombres, fotos y antiguos registros"
-date: 2023-06-15T01:04:39+02:00
+date: 2023-06-19T01:04:39+02:00
 image: grande.png
 math: 
 license: 
@@ -26,6 +26,11 @@ El pecio Marmoler, otro barco hundido en la Costa Brava, concretamente en el mun
 Podremos acceder mediante una navegación de una media hora saliendo desde el puerto de l’Escala. El barco hundido se ha escorado ligeramente pero se mantiene a 42 metros de profundidad con el casco aún de una pieza. La zona de proa apunta al Norte y, por lo tanto, la popa al Sur.
 
 ![Esquema del buceo](mapa.jpg)
+
+Sus coordenadas son:
+
+42° 6' 28.6776" Latitud N
+3° 11' 51.5580" Longitud E
 
 
 ### Datos tecnicos
@@ -55,7 +60,7 @@ Podremos acceder mediante una navegación de una media hora saliendo desde el pu
 ### Construccion y puesta operativa
 El buque se construyo en Alblasserdam, Paises Bajos, por la naviera NV Industrieele Maatschappij 'De Noord', se vendio el 1930-01-15  con el nombre de **Flying Scotsman** y establecio su base en el puerto de Roterdam.
 
-Segun he investigado, el Flying Scotsman fue un tren famosisimo en su epoca, el primero en lograr la velocidad de 100mph mas info ![aqui](https://www.railwaymuseum.org.uk/objects-and-stories/history-flying-scotsman).
+Segun he investigado, el Flying Scotsman fue un tren famosisimo en su epoca, el primero en lograr la velocidad de 100mph mas info [aqui](https://www.railwaymuseum.org.uk/objects-and-stories/history-flying-scotsman).
 
 ### Primeros años
 El barco de carga empezo su andadura cen 1930 con 3 colisiones menores con un vapor aleman en febrero, en el Canal de Kiel y con un velero de madera en Brightlingsea en agosto. Al año siguiente, el capitan del barco lo encalló durante una noche con niebla en la costa Este de Inglaterra, el barco no se hundio y el capitan fue amonestado por el Shipping Council ingles.
