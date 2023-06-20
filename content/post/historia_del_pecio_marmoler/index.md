@@ -15,6 +15,7 @@ tags:
     - Pecio
 ---
 
+# El pecio marmoler
 
 ## El pecio marmoler
 En dos dias voy a ir a bucear este pecio y como no podia ser de otra manera, me he puesto a investigar sobre su historia, en las webs de buceo no se habla en ningun sitio de su pasado ni mostrado ninguna foto del barco antes de hundirse asi que hago este post para dejarlo por aqui.
@@ -54,7 +55,6 @@ Sus coordenadas son:
 | Manga | 7,70 metros |
 | Profundidad | 3,05 metros |
 | Calado maximo | 2,81 metros |
-
 
 ## Su historia
 ### Construccion y puesta operativa
