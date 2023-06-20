@@ -1,0 +1,7 @@
+User-agent: *
+
+Disallow: /tags/
+Disallow: /page/
+Disallow: /search/
+
+Sitemap: https://buceo.avances123.es/sitemap.xml
