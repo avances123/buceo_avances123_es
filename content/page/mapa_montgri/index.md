@@ -3,7 +3,7 @@ title: "Cuevas del Montgri"
 license: false
 date: 2023-07-13
 slug: "mapa_montgri"
-description: Mapa con las cuevas que he topografiado en el montgri
+description: Mapa con las cuevas en el montgri
 menu:
     main:
         weight: 2
@@ -45,7 +45,7 @@ menu:
     onEachFeature: function (feature, layer) {
         layer.bindPopup(
         '<h1>'+feature.properties.nombre+'</h1>'+
-        '<h5>Desarrollo: '+feature.properties.desarrollo+'</h5>'+
+        '<h5>Desarrollo: '+feature.properties.desarrollo+'m</h5>'+
         '<a href="' + feature.properties.url + '"><img src="' + feature.properties.topografia +'" alt="HTML tutorial" style="width:200px;height:100px;"></a>'
         );
     }
