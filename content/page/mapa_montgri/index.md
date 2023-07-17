@@ -45,7 +45,7 @@ menu:
     onEachFeature: function (feature, layer) {
         layer.bindPopup(
         '<h1>'+feature.properties.nombre+'</h1>'+
-        '<h3>Desarrollo: '+feature.properties.desarrollo+'</h3>'+
+        '<h5>Desarrollo: '+feature.properties.desarrollo+'</h5>'+
         '<a href="' + feature.properties.url + '"><img src="' + feature.properties.topografia +'" alt="HTML tutorial" style="width:200px;height:100px;"></a>'
         );
     }

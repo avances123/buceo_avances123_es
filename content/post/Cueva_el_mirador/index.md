@@ -2,7 +2,7 @@
 title: "Cova del mirador"
 description: "Diario de la exploracion de una cueva submarina en l'escala"
 date: 2022-09-06T00:47:56+01:00
-lastmod: 2022-09-06T12:52:12+01:00
+lastmod: 2023-07-06T12:52:12+01:00
 draft: false
 image: 1.png.webp
 categories:
@@ -29,20 +29,19 @@ La pared gira a la derecha y el ambiente se oscurece mucho, estamos justo en el 
 ## Plan de trabajo
 Mi plan es ir haciendo inmersiones e ir haciendo la poligonal cada vez mas grande, uniendo todas las cuevas con hilo por fuera a mar abierto. Este sistema no desarrolla hacia dentro de la piedra, pero es bastante amplio a lo ancho, sobre los 70-100m de poligonal en total.
 
-Ademas planee volver con compañero para intentar la galeria inferior que era muy estrecha, y logre salir por una grieta que ahora ya aparece en la topografia actual.
+## La restriccion
+Esta cueva tiene como interes principal un pozo de unos 5 metros de profundidad que acaba en una galeria estrecha que vuelve al mar por una restriccion, ultimamente la estan haciendo mas buceadores cosa que me llena de orgullo.
 
 
 ## Topografia 
-
 En esta topografia he aprendido a elegir siempre el perfil (extended elevation) de la topo segun el corte que sea mas representativo, en un principio quise hacer el acorde a la planta, pero he decidido elegir otro donde se vea la pared y la linea de costa de manera perpendicular, logrando que se entienda mucho mejor.  
 
-<!-- ![Topografia de la cova de la finestra del romaní](topo.png) -->
+![Topografia de la cova del mirador del romaní](topo_el_mirador.png)
 
 
+### Dibujos y bocetos
+He encontrado bocetos a lapiz y la poligonal , la dejo aqui aunque no tenga interes.
 
 
-
-
-
-
-
+![Poligonal hecha con therion impresa en papel](3.png)
+![Planta dibujada a lapiz sobre poligonal](2.png)
