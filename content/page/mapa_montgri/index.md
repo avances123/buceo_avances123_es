@@ -26,9 +26,16 @@ menu:
 <div id="map" style="width: 100%; height: 600px"></div>
 
 <script>
-  var
-    tileUrl,
-    map = L.map('map').setView([42.111202,3.170544], 16);
+  var tileUrl;
+  var bounds = new L.LatLngBounds(new L.LatLng(42.1042, 3.16024), new L.LatLng(42.11774, 3.18647));
+
+  var map = L.map('map', {
+    center: bounds.getCenter(),
+    minZoom: 16,
+    maxZoom: 18,
+    maxBounds: bounds,
+    maxBoundsViscosity: 0.75
+  }).setView([42.111202,3.170544], 16);
 
   var OpenStreetMap_Mapnik = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 	maxZoom: 19,
@@ -60,6 +67,6 @@ menu:
 </html>
 
 
-Desde hace tiempo estoy escaneando la pared de la peninsula del montgo, si tengo oportunidad, topografio cada cueva que veo medianamente significativa. Para ello empleo mi scooter para viajar al punto, mi ordenador de buceo y la boya para ascender a la superficie y tomar las coordenadas de la entrada, y una plantilla hilo y cookies para la poligonal. Ademas grabo desde mi casco y otra pasada manual con la gopro para luego en casa dibujar las paredes de la cueva.
+Desde hace tiempo estoy escaneando la pared de la peninsula del montgo, si tengo oportunidad, topografío cada cueva que veo medianamente significativa. Para ello empleo mi scooter para viajar al punto, mi ordenador de buceo y la boya para ascender a la superficie y tomar las coordenadas de la entrada, y una plantilla, hilo y cookies para la poligonal. Ademas grabo desde mi casco y otra pasada manual con la gopro para luego en casa dibujar las paredes de la cueva.
 
 Espero poder ayudar a los siguiente buceadores a conocer mas esta fantastica pared y que puedan disponer de la mayor informacion posible.
