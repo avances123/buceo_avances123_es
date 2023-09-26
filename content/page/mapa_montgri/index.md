@@ -27,7 +27,7 @@ menu:
 
 <script>
   var tileUrl;
-  var bounds = new L.LatLngBounds(new L.LatLng(42.1042, 3.16024), new L.LatLng(42.11774, 3.18647));
+  var bounds = new L.LatLngBounds(new L.LatLng(42.0042, 3.13024), new L.LatLng(42.21774, 3.28647));
 
   var map = L.map('map', {
     center: bounds.getCenter(),
