@@ -69,6 +69,12 @@ La dejo en formato [pdf](topografia.pdf) por si alguien lo prefiere para ver con
 
 Los datos de la poligonal la dejo en [github](https://github.com/avances123/topografias/blob/master/tirounere/cova.th)
 
+### Datos en 3D
+
+![Poligonal sin paredes](poligonal3d.png)
+![Cueva en 3d](3d.gif)
+
+
 ## Video de la cueva completo
 
 
