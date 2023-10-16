@@ -96,4 +96,4 @@ Investigando mas por internet he podido encontrar una topografia mas completa qu
 
 Si se sigue aguas arriba, la cueva sigue siendo estrecha y complicada segun cuenta la cronica, pero ademas se hace profunda hasta los -106m, punto en los que los fantasticos espeleobuceadores franceses dejaron la exploracion.
 
-Adjunto la [ficha en frances](CRPS_2013_Anarchistes_Tirouneres.pdf) y traducida al [español](CRPS_2013_Anarchistes_Tirouneres Espanol.pdf), en ella se cuentan los datos y aventuras que pasaron los exploradores en 2013 aguas arriba de esta surgencia. Ojala algun dia pueda visitar este pozo de los anarquistas y seguir viendo mas cueva.
+Adjunto la [ficha en frances](CRPS_2013_Anarchistes_Tirouneres.pdf) y traducida al [español](CRPS_2013_Anarchistes_Tirouneres_Espanol.pdf), en ella se cuentan los datos y aventuras que pasaron los exploradores en 2013 aguas arriba de esta surgencia. Ojala algun dia pueda visitar este pozo de los anarquistas y seguir viendo mas cueva.
