@@ -88,3 +88,12 @@ Si te apetece una cueva de no mas de 120m de penetracion, estrecha y ratonera en
 Se puede hacer en un dia perfectamente , e incluso, se puede entrar y salir dos veces siempre controlando el gas y el frio por supuesto.
 
 Para mi ha sido otro paso mas en el refinamiento e industrializacion tanto de la toma de datos,que ha sido muy complicada y mas imprecisa de lo que me gustaria pero la cueva no ayudaba, como del proceso posterior en casa, ya que mis compañeros hicieron un video de las paredes optimo para poder dibujar la parte subjetiva de la topografia con la mayor objetividad posible.
+
+
+## Actualizacion con mas informacion 
+
+Investigando mas por internet he podido encontrar una topografia mas completa que la mia y para mi sorpresa, la cueva sigue mas alla de donde deje el hilo!. Unos metros mas adelante, se hace impenetrable asi que hay que dar la vuelta, pero hay un acceso por la montaña llamado **Sifon de los anarquistas** donde despues de una complicada bajada hasta el agua por cueva aerea, se puede seguir aguas abajo hasta el otro extremo del paso impenetrable que habiamos dejado en La Tirounere.
+
+Si se sigue aguas arriba, la cueva sigue siendo estrecha y complicada segun cuenta la cronica, pero ademas se hace profunda hasta los -106m, punto en los que los fantasticos espeleobuceadores franceses dejaron la exploracion.
+
+Adjunto la ![ficha en frances](CRPS_2013_Anarchistes_Tirouneres.pdf) y traducida al ![español](CRPS_2013_Anarchistes_Tirouneres Espanol.pdf), en ella se cuentan los datos y aventuras que pasaron los exploradores en 2013 aguas arriba de esta surgencia. Ojala algun dia pueda visitar este pozo de los anarquistas y seguir viendo mas cueva.
