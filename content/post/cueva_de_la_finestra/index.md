@@ -31,6 +31,12 @@ Una vez ahi, se ven dos entradas grandes , cuando se entra por el pasillo, gira 
 
 He entrado varias veces en varias inmersiones, primero he intentado seguir hacia dentro en la galeria superior pero no hay forma humana de seguir por el agujero. Despues he hecho la topografia con un par de carretes para unir la planta inferior y la superior y con el segmento de hilo de 1m.
 
+### Video de la cueva
+
+Dejo aqui un video desde la entrada hasta el extremo mas interior de la burbuja. Es de mi casco mientras instalaba el hilo para hacer la poligonal.
+
+{{< youtube wpa6y_aHlss >}}
+
 
 ## Fotos relevantes
 ![El tunel inferior visto desde la parte de arriba](1.webp)
