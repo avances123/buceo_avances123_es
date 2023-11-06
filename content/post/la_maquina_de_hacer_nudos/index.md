@@ -23,7 +23,7 @@ La cosa es que tener cientos de metros de hilo, y tener que hacer un nudo cada 2
 
 Yo solo he copiado a los mejores, en este caso, a Steve Bogaerts una leyenda del sidemount y de la exploracion de las cuevas. En este youtube explica todo el tutorial, que yo he seguido y que cuento aqui.
 
-<!-- {{< youtube FoiZFYv9NJ4 >}} -->
+{{< youtube FoiZFYv9NJ4 >}}
 
 # Mi propia maquina
 
