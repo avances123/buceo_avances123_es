@@ -65,6 +65,12 @@ No asi las galerias Verde y Soto, que muy por el contrario se hace imposible man
 
 ![Topografia de las Gemelas](topo.png)
 
+## Video
+Aqui un resumen midiendo el hilo que va desde la cruz hasta la sala llena de lodo de la gemela II.
+
+{{< youtube rgdDuqH-2es >}}
+
+
 ## Conclusion
 Espero poder compartir esta topografia y que ayude a planificar buceos de manera mas detallada, en esta galeria, para mi las gemelas han sido y son parte de mi entrenamiento y una Cueva del Agua en miniatura, donde podemos disfrutar de casi todas las cosas caracteristicas de la cueva, cruces, agua muy cristalina, haloclina, lodo, y todo el agua turbia que tu quieras (o puedas) soportar.
 
