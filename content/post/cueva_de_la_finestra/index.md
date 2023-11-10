@@ -62,4 +62,4 @@ Dejo aqui otro video con mi trabajo en la galeria del bombero.
 
 Pese a que faltan por aparecer galerias en el techo y alguna en los laterales por donde dificilmente cabe una persona, esta es la topografia de la cavidad
 
-![Topografia de la cova de la finestra del romaní](topo.png)
+![Topografia de la cova de la finestra](topo2.png)
