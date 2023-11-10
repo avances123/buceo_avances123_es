@@ -30,13 +30,25 @@ Una vez ahi, se ven dos entradas grandes , cuando se entra por el pasillo, gira 
 
 ## Exploracion
 
+### Inicio
+
 He entrado varias veces en varias inmersiones, primero he intentado seguir hacia dentro en la galeria superior pero no hay forma humana de seguir por el agujero. Despues he hecho la topografia con un par de carretes para unir la planta inferior y la superior y con el segmento de hilo de 1m.
 
-### Video de la cueva
+### Actualizacion 10-11-2023
 
+Otro buceador, Cesar Sempere, ha descubierto una galeria relevante que pese al tiempo que he estado alli, nunca me percate de ella. Tiene una burbuja con muchos espeleotemas tanto dentro como debajo del agua. Con sus indicaciones, la he topografiado y actualizado la topografia, acaba en una estrechez donde segun me comenta la cueva sigue. Aun no he intentado superar ese obstaculo pero esto sigue!!!
+
+## Videos de la cueva
+
+### Inicio
 Dejo aqui un video desde la entrada hasta el extremo mas interior de la burbuja. Es de mi casco mientras instalaba el hilo para hacer la poligonal.
 
 {{< youtube wpa6y_aHlss >}}
+
+### Topografia de la galeria del bombero
+Dejo aqui otro video con mi trabajo en la galeria del bombero.
+
+{{< youtube C9BuheJAVKg >}}
 
 
 ## Fotos relevantes
