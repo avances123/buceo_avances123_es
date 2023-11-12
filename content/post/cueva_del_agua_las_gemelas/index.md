@@ -27,7 +27,7 @@ Para encontrar la entrada hay que navegar por la caverna rumbo ~45º como siempr
 Voy a narrar el recorrido que yo estimo mas habitual y recomendable para explorar todas las galerias, al menos hasta donde yo he llegado
 
 ### Galeria Verde
-Una vez encontrado el hilo, podemos atar nuestro carrete y en unos escasos metros podremos ver una galeria que nace a nuestra derecha, con hilo instalado. Podemos hacer un salto y visitar la Galeria Verde, una galeria que se estrecha hasta un nivel donde yo no he podido pasar sin soltar el hilo, pero ahi esta instalado a menos a fecha del 2022, no se que valiente ha logrado instalarlo pero todo mi reconocimiento. Por supuesto la vuelta sera con bastante turbiedad pero rapidamente volveremos a nuestro spool de salto sin problemas.
+Una vez encontrado el hilo, podemos atar nuestro carrete y en unos escasos metros podremos ver una galeria que nace a nuestra derecha, con hilo instalado. Podemos hacer un salto y visitar la Galeria Verde, una galeria que se estrecha hasta un nivel donde yo no he podido pasar sin soltar el hilo, pero ahi esta instalado a menos a fecha del 2022, Jose Soto ha sido el instalador del hilo, menuda proeza. Por supuesto la vuelta sera con bastante turbiedad pero rapidamente volveremos a nuestro spool de salto sin problemas.
 
 ### Entrada y encrucijada en cruz
 Si seguimos el hilo, pronto encontraremos una pared que deberemos ascender y donde nuestro compañero podra admirar la belleza de la cueva si enfocamos al techo y vamos iluminando toda la sala que nos espera un poco mas arriba.
@@ -43,7 +43,7 @@ Una vez señalizada nuestra vuelta en la cruz, tomamos el hilo de la izquierda y
 Giraremos 90 grados en una estrechez que nos hara sentir aventureros y empezaremos la subida por la galeria II
 
 ### Gemela II
-seguimos subiendo lentamente puesto esta galeria tiene el techo mucho mas cerca y hay que ir aun mas finos si cabe, a nuestra izquierda se ve como la ladera cae a mas profundidad pero es muy recomendable estar pendiente del hilo aqui, puesto que se pega muy a la derecha donde el techo estrecha mucho la vertical de la galeria.
+Seguimos subiendo lentamente puesto que esta galeria tiene el techo mucho mas cerca y hay que ir aun mas finos si cabe, a nuestra izquierda se ve como la ladera cae a mas profundidad pero es muy recomendable estar pendiente del hilo aqui, puesto que se pega muy a la derecha donde el techo estrecha mucho la vertical de la galeria.
 
 Pronto llegaremos a una T y veremos a nuestra derecha la cruz donde comenzamos nuestra andadura, llegaremos por el hilo "de arriba" si miramos la cruz al entrar, veremos nuestra cookie en el hilo de la cruz que esta a enfrente, que nos indica la salida total de las gemelas. Si en esta posicion giramos a la izquierda iremos la gemela III
 
@@ -65,14 +65,8 @@ No asi las galerias Verde y Soto, que muy por el contrario se hace imposible man
 
 ![Topografia de las Gemelas](topo.png)
 
-## Video
-Aqui un resumen midiendo el hilo que va desde la cruz hasta la sala llena de lodo de la gemela II.
-
-{{< youtube rgdDuqH-2es >}}
-
-
 ## Conclusion
-Espero poder compartir esta topografia y que ayude a planificar buceos de manera mas detallada, en esta galeria, para mi las gemelas han sido y son parte de mi entrenamiento y una Cueva del Agua en miniatura, donde podemos disfrutar de casi todas las cosas caracteristicas de la cueva, cruces, agua muy cristalina, haloclina, lodo, y todo el agua turbia que tu quieras (o puedas) soportar.
+Espero poder compartir esta topografia y que ayude a planificar buceos de manera mas detallada en esta galeria. Para mi las gemelas han sido y son parte de mi entrenamiento y una Cueva del Agua en miniatura, donde podemos disfrutar de casi todas las cosas caracteristicas de la cueva, cruces, agua muy cristalina, haloclina, lodo, y todo el agua turbia que tu quieras (o puedas) soportar.
 
 
 
