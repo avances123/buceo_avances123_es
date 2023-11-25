@@ -62,7 +62,7 @@ card = "summary_large_image"
 #The default image is the image that will be used on a page if no featured image is set. This is useful for Open Graph and Twitter cards.
 enabled = true
 local = false
-src = "https://buceo.avances123.es/p/bienvenida/bienvenida_hu993187665d6582fb7fb733f1d48385a8_1028282_1600x0_resize_q75_box.jpg"
+src = "https://buceo.avances123.es/img/avatar_hu4fc9fede17bcbb84f7969fd430b416c1_48130_300x0_resize_q75_box.jpg"
 
 [colorScheme]
 toggle = false
