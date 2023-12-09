@@ -17,6 +17,11 @@ tags:
 ## Introduccion
 En mis anteriores escritos, he mencionado mi hábito de llevar a cabo el mapeo de las galerías cuando visito la Cueva del Agua en Murcia. Mi objetivo es explorar áreas cada vez más desafiantes para continuar con la mejora del proceso. En mi última expedición, mi intención era adentrarme en el laberinto de 600 metros, que destaca por ser la sección con mayor cantidad de lagunas topográficas en toda la extensión de la cueva, justo antes del tramo de 850 metros. Sin embargo, me encontré con un inconveniente: mi vehículo, el scooter, está bastante antiguo y presenta problemas con la entrada de agua. Por lo tanto, mi enfoque cambió y decidí dedicarme a recorrer exhaustivamente todos los hilos instalados en la cueva, llevando a cabo el proceso de topografía. Desafortunadamente, debido a la percolación y a las condiciones generadas por mi propia presencia, el agua turbia obstaculizó mi visión, impidiéndome ver con claridad la plantilla utilizada para el mapeo.
 
+## La topografia
+La topografía original tiene un fondo negro para realzar los colores naturales de la cueva. Además, he creado una [versión alternativa](mapa_poly_negativo.png) con fondo blanco y colores complementarios para facilitar su impresión.
+
+![Topografia de los primeros 200m de Cueva del Agua](mapa_poly.png)
+
 ## Explicacion del proyecto
 El propósito del proyecto radica en la confección de una topografía adaptada específicamente para la navegación subacuática, centrándose en los buceadores y excluyendo pormenores irrelevantes para esta práctica. Este modelo estará focalizado única y exclusivamente en la representación de la poligonal, aunque carezca de importancia en la topografía de cuevas terrestres, resulta crucial para el buceo, sirviendo como guía cardinal en el entorno de la cueva y siendo perceptible físicamente por los buceadores.
 
@@ -34,10 +39,6 @@ Los segmentos delineados en azul de trazo fino, como mencioné anteriormente, co
 
 La topografía ha sido llevada a cabo con una precisión de error de 0.1 metros tanto en longitud como en profundidad, y un margen de 5 grados en el rumbo de las mediciones.
 
-### La topografia
-La topografía original tiene un fondo negro para realzar los colores naturales de la cueva. Además, he creado una [versión alternativa](mapa_poly_negativo.png) con fondo blanco y colores complementarios para facilitar su impresión.
-
-![Topografia de los primeros 200m de Cueva del Agua](mapa_poly.png)
 
 ## Futuras Mejoras
 El propósito es conservar la simplicidad del diseño, pero se considera la incorporación de símbolos para representar restricciones, pozos o chimeneas de gran importancia en el mapa.
