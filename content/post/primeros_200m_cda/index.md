@@ -1,6 +1,6 @@
 ---
 title: "Topografia de los primeros 200m de Cueva del Agua"
-description: "Publicacion de una nueva topografia de cueva del agua orientada a la navegacion de los buceadores"
+description: "Publicacion de una nueva topografia de cueva del agua orientada a la navegación"
 date: 2023-12-08T21:16:59+01:00
 image: mapa_poly.png
 math: 
