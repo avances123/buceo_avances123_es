@@ -12,7 +12,11 @@ defaultContentLanguageInSubdir = true
     title = 'Cave Diving Spain'
     languageCode = 'en'
     weight = 2
-
+  [languages.fr]
+    languageName = 'French'
+    title = 'Cave Diving Spain'
+    languageCode = 'fr'
+    weight = 3
 
 
 
