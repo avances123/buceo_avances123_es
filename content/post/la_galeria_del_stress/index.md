@@ -28,7 +28,7 @@ Sobre la topografia de la cueva no cabe critica alguna, desde mis inmersiones de
 ![La galeria del stress en rojo en comparacion con toda la cueva](2.png)
 
 
-## Explciacion del proyecto
+## Explicacion del proyecto
 La idea que he tenido es hacer topos en planta (el perfil en esta cueva carece de interes), de zonas "miticas" de la cueva y topografiarlas con mucho mas detalle del que existe en la topo oficial. Este detalle no tendria sentido para la topo oficial, puesto que la cueva es mucho mas grande y ademas cumple todas las funciones de informar al buceador de todo lo necesario para su planificacion.
 
 Lo mio es mas una cuestion casi de hacer un ejercicio para clase de un problema conocido,voy a topografiar la galeria del stress en una lamina, que quepa en un A4, de la manera mas detallada posible.
