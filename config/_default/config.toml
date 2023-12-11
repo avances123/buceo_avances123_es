@@ -1,19 +1,19 @@
+defaultContentLanguage = 'es'
+baseURL = 'https://buceo.avances123.es'
+defaultContentLanguageInSubdir = true
 [languages]
   [languages.es]
-    baseURL = 'https://buceo.avances123.es'
     languageName = 'Español'
     title = 'Buceo en Cuevas'
     weight = 1
     languageCode = 'es'
   [languages.en]
-    baseURL = 'https://diving.avances123.es'
     languageName = 'English'
     title = 'Cave Diving Spain'
     languageCode = 'en'
     weight = 2
 
 
-defaultContentLanguage = 'es'
 
 
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
