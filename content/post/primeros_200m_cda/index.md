@@ -56,6 +56,46 @@ Los datos recopilados han sido procesados utilizando software especializado en t
 ![Datos en la plantilla](IMG_20231202_182833.jpg)
 ![Poligonal antes de decorarse](cave_m.jpg)
 
+### Estadisticas globales de toda la cueva
+En esta presentación se ofrece un resumen estadístico integral del tramo de hilo correspondiente a la Cueva del Agua hasta una profundidad de 200 metros. Cada fila de datos engloba una encuesta topográfica referente, habitualmente asociada a una galería o segmento relevante. Cabe mencionar que las estaciones y segmentos clasificados como saltos no se consideran en esta estadística, lo cual se refleja en múltiples filas que contienen mediciones puras de las dimensiones de la caverna, excluyendo tales elementos de análisis.
+
+```
+Title                 Length  Depth     Explored  Approx.  Duplicate  Surface  Shots  Stations
+Cueva_del_Agua        833     13        0         264      0          0        131    157
+Las_Gemelas           164     11        0         0        0          0        21     27
+gemelas1              68      8         0         0        0          0        9      10
+gemelas2              13      4         0         0        0          0        1      2
+gemelas3              31      6         0         0        0          0        3      4
+galeria_soto          5       1         0         0        0          0        2      3
+galeria_verde         17      5         0         0        0          0        4      5
+union_gemelas         30      4         0         0        0          0        2      3
+De_0_a_100            109     4         0         0        0          0        19     22
+primeros_metros       46      2         0         0        0          0        7      8
+stress                27      4         0         0        0          0        6      7
+encajonada            37      1         0         0        0          0        6      7
+Caverna               128     11        0         10       0          0        41     50
+hilo_caverna          0       0.000000  0         0        0          0        7      8
+caverna_gemelas       0       0.000000  0         0        0          0        2      3
+buclecito             30      3         0         0        0          0        9      10
+caverna_mar           10      0         0         10       0          0        5      6
+moto                  37      8         0         0        0          0        6      7
+a_gemelas2            0       0.000000  0         0        0          0        3      4
+restricciones_cartel  52      4         0         0        0          0        9      12
+restriccion1          26      2         0         0        0          0        5      6
+restriccion2          18      2         0         0        0          0        3      4
+restriccion3          8       0         0         0        0          0        1      2
+De_100_a_200          431     5         0         254      0          0        50     58
+bucle                 177     5         0         0        0          0        20     21
+la_cruz               63      1         0         63       0          0        10     12
+eje1                  36      1         0         36       0          0        6      7
+eje2                  27      0         0         27       0          0        4      5
+zig_zag1              76      0         0         76       0          0        7      8
+ventana_larga         31      0         0         31       0          0        5      6
+ventana_corta         17      0         0         17       0          0        3      4
+chara1                22      0         0         22       0          0        2      3
+chara2                45      0         0         45       0          0        3      4
+```
+
 
 ## Futuras Mejoras
 El propósito es conservar la simplicidad del diseño, pero se considera la incorporación de símbolos para representar restricciones, pozos o chimeneas de gran importancia en el mapa.
