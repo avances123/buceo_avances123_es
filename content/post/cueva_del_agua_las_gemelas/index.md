@@ -12,6 +12,8 @@ categories:
 tags:
     - Topografia
     - Cueva
+aliases:
+    - /p/topografia-detallada-de-las-gemelas/
 ---
 
 ## Introduccion

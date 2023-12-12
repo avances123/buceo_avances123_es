@@ -14,6 +14,8 @@ tags:
     - Topografia
     - Cueva
     - Mar
+aliases:
+    - /p/la-cova-de-la-finestra/
 ---
 
 # La exploracion de la Cova de la Finestra

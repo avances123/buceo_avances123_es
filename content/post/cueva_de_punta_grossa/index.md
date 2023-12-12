@@ -13,6 +13,8 @@ tags:
     - Topografia
     - Cueva
     - Mar
+aliases:
+    - /p/la-cova-de-punta-grossa/
 ---
 
 # La exploracion de la Cova de Punta Grossa

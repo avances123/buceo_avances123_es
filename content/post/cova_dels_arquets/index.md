@@ -11,6 +11,8 @@ tags:
     - Topografia
     - Cueva
     - Mar
+aliases:
+    - /p/cova-dels-arquets/
 ---
 
 # La exploracion de la Cova dels Arquets

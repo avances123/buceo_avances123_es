@@ -13,11 +13,15 @@ defaultContentLanguageInSubdir = true
     languageCode = 'en'
     weight = 2
   [languages.fr]
-    languageName = 'French'
-    title = 'Cave Diving Spain'
+    languageName = 'Français'
+    title = 'Plongée souterraine Espagne'
     languageCode = 'fr'
     weight = 3
-
+  [languages.zh]
+    languageName = '中文'
+    title = '洞穴潜水'
+    languageCode = 'zh'
+    weight = 4
 
 
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]

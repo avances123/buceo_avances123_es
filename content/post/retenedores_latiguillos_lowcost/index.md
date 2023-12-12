@@ -8,6 +8,8 @@ keywords: [buceo,espeleologia,material]
 image: IMG_20231125_111937.jpg
 categories:
     - Equipo
+aliases:
+- /p/retenedores-de-latiguillos-lowcost/
 ---
 
 ## Cual es el problema

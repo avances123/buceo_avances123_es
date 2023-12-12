@@ -13,6 +13,8 @@ categories:
 tags:
     - Topografia
     - Cueva
+aliases:
+    - /p/source-de-la-tirounère/
 ---
 
 # La topografia de la Source de la Tirounére

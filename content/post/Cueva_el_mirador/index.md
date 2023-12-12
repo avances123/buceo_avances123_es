@@ -11,6 +11,8 @@ tags:
     - Topografia
     - Cueva
     - Mar
+aliases:
+    - /p/cova-del-mirador/
 ---
 
 # La exploracion de la Cueva del mirador

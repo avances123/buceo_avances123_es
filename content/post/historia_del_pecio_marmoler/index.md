@@ -13,6 +13,8 @@ categories:
 tags:
     - Documentacion
     - Pecio
+aliases:
+    - /p/historia-del-pecio-marmoler/
 ---
 
 # El pecio marmoler

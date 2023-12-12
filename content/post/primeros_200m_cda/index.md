@@ -12,6 +12,8 @@ categories:
 tags:
     - Topografia
     - Cueva
+aliases:
+- /p/topografia-de-los-primeros-200m-de-cueva-del-agua/
 ---
 
 ## Introduccion
