@@ -64,9 +64,9 @@ Après l'avoir plongée et avoir beaucoup étudié la topographie, la zone du d�
 
 Après deux plongées avec l'aide de mes camarades Lluis Vila et Joan Farrerons, j'ai réussi à faire la polygénie et à avoir une vidéo détaillée de toute la grotte pour pouvoir dessiner les parois. Et voyant que ce qui est le plus remarquable dans la grotte, ce sont ses restrictions, j'ai décidé de mettre des photos pour mieux les comprendre.
 
-![Nouvelle topographie](topografia.png)
+![Nouvelle topographie](https://buceo.avances123.es/es/p/source-de-la-tiroun%C3%A8re/topografia.png)
 
-Je la laisse au format [pdf](topografia.pdf) au cas où quelqu'un préfère voir avec un zoom plus important.
+Je la laisse au format [pdf](https://buceo.avances123.es/es/p/source-de-la-tiroun%C3%A8re/topografia.pdf) au cas où quelqu'un préfère voir avec un zoom plus important.
 
 Les données de la polygénie sont disponibles sur [github](https://github.com/avances123/topografias/blob/master/tirounere/cova.th)
 
