@@ -2,7 +2,7 @@
 title: "Historia del pecio marmoler"
 description: "Sus otros nombres, fotos y antiguos registros"
 date: 2023-06-19T01:04:39+02:00
-image: grande.png
+image: grande.png.webp
 math: 
 license: 
 hidden: false
@@ -28,7 +28,7 @@ El pecio Marmoler, otro barco hundido en la Costa Brava, concretamente en el mun
 
 Podremos acceder mediante una navegación de una media hora saliendo desde el puerto de l’Escala. El barco hundido se ha escorado ligeramente pero se mantiene a 42 metros de profundidad con el casco aún de una pieza. La zona de proa apunta al Norte y, por lo tanto, la popa al Sur.
 
-![Esquema del buceo](mapa.jpg)
+![Esquema del buceo](mapa.jpg.webp)
 
 Sus coordenadas son:
 
@@ -74,7 +74,7 @@ En 1938-11-09 se cambia el nombre a **Evertsen** y con el estallido de la Segund
 
 El mes siguiente, participa en el desembarco de Normandia haciendo de barco de transporte el dia 9 de Junio, 3 dias despues del dia D. El Evertsen fue miembro del convoy EBC-7 que constaba de 28 buques mercantes y que salio de la ciudad inglesa de Barry el dia 9 para llegar a la bahia del Sena el dia 13. Acarreo 392 toneladas de material a la costa francesa.
 
-![Convoy EBC-7 de la WWII](convoy.png)
+![Convoy EBC-7 de la WWII](convoy.png.webp)
 
 Aqui me queda mas por investigar, lo intento con mucha pasion, y me resulta dificil creer que no hay mas informacion sobre los convoyes de carga que hubo en el desembarco de Normandia, asi que seguire intentandolo
 
@@ -85,27 +85,27 @@ En ruta de Viareggio a Barcelona el dia 17 de Mayo de 1971 con un cargamento de 
 
 
 ## Fotos del buque
-![Flying Scotsman](1.png)
-![Flying Scotsman](2.png)
-![Flying Scotsman](3.png)
-![Flying Scotsman](4.png)
+![Flying Scotsman](1.png.webp)
+![Flying Scotsman](2.png.webp)
+![Flying Scotsman](3.png.webp)
+![Flying Scotsman](4.png.webp)
 
-![Evertsen](5.png)
-![Evertsen](6.png)
-![Evertsen](7.png)
-![Evertsen](8.png)
+![Evertsen](5.png.webp)
+![Evertsen](6.png.webp)
+![Evertsen](7.png.webp)
+![Evertsen](8.png.webp)
 
-![Aurora Prima](9.png)
+![Aurora Prima](9.png.webp)
 ![Diana Prima](10.webp)
-![Avvenire](11.png)
+![Avvenire](11.png.webp)
 
 ## Otros Evertsen
 En mi camino investigando este barco, he descubierto otros buques llamados **Evertsen** uno de ellos me condujo por una encrucijada que resulto incorrecta, puesto que este otro Evertsen se construyo en 1961 en Rotterdam, curiosamente se parece muchisimo al pecio que hay en nuestra querida Costa Brava. Este barco se hundio en el canal de la mancha a los pocos meses de su puesta en operativa, y su naviera aun nombro a otro Evertsen  al año siguiente cuanto puso otro barco igual en el mercado.
 
 Aqui los planos de este otro barco:
 
-![Planta 1 del Evertsen de 1961](planta.png)
-![Planta 2 del Evertsen de 1961](otra_planta.png)
+![Planta 1 del Evertsen de 1961](planta.png.webp)
+![Planta 2 del Evertsen de 1961](otra_planta.png.webp)
 
 Por desgracia no son los planos del Avvenire, pero parece que este diseño se uso bastante durante esta treintena en los astilleros de Rotterdam. 
 
