@@ -2,7 +2,7 @@
 title: "Plantilla milimetrada para hacer croquis"
 date: 2021-12-30T09:58:50+01:00
 lastmod: 2022-01-17T12:52:12+01:00
-draft: false
+draft: true
 image: portada.jpg.webp
 categories:
     - Equipo
