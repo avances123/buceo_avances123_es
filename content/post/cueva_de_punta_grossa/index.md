@@ -35,11 +35,11 @@ He entrado primero a instalar el hilo, una vez instalado correctamente, he vuelt
 
 
 ## Fotos relevantes
-![Entrada de agujero](1.png)
-![Otro angulo de la entrada de agujero](2.png)
-![Chimenea en el techo de la sala principal](3.png)
-![Restriccion con cantos rodados](4.png)
-![Saliendo por la boca profunda](5.png)
+![Entrada de agujero](1.webp)
+![Otro angulo de la entrada de agujero](2.webp)
+![Chimenea en el techo de la sala principal](3.webp)
+![Restriccion con cantos rodados](4.webp)
+![Saliendo por la boca profunda](5.webp)
 
 ## Topografia
 
