@@ -1,7 +1,7 @@
 ---
 title: "Mi equipo"
 date: 2021-12-11T01:06:47+01:00
-lastmod: 2022-01-17T12:52:12+01:00
+lastmod: 2024-04-24T09:52:12+01:00
 draft: false
 image: 1.jpg.webp
 categories:

@@ -1,7 +1,7 @@
 ---
 title: "Sidemount,acero ligero y agua fria"
 date: 2022-01-03T18:17:52+01:00
-lastmod: 2023-06-14T12:52:12+01:00
+lastmod: 2024-04-24T09:52:12+01:00
 draft: false
 image: Painted-Cylinder-Colors.jpg.webp
 categories:

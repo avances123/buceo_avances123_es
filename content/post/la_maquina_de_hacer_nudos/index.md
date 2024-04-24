@@ -2,7 +2,7 @@
 title: "La maquina de hacer nudos"
 description: "Como hacer un aparato para hacer nudos en el carrete de buceo"
 date: 2022-11-20T00:47:56+01:00
-lastmod: 2022-12-20T12:52:12+01:00
+lastmod: 2024-04-24T09:52:12+01:00
 draft: false
 keywords: [buceo,cuevas,espeleologia]
 image: 20220120_202109.jpg.webp

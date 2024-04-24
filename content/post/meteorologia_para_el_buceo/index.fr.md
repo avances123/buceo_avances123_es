@@ -2,7 +2,7 @@
 title: "Météorologie pour la plongée sous-marine"
 description: "Quelques idées sur la météo pour les plongeurs"
 date: 2022-04-06T00:47:56+01:00
-lastmod: 2022-06-06T12:52:12+01:00
+lastmod: 2024-04-24T09:52:12+01:00
 draft: false
 image: entrada.png.webp
 categories:

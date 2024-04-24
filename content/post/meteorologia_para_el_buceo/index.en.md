@@ -2,7 +2,7 @@
 title: "Meteorology for Diving"
 description: "A couple of ideas about weather for divers"
 date: 2022-04-06T00:47:56+01:00
-lastmod: 2022-06-06T12:52:12+01:00
+lastmod: 2024-04-24T09:52:12+01:00
 draft: false
 image: entrada.png.webp
 categories:

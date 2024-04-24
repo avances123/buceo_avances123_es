@@ -2,7 +2,7 @@
 title: "Detalle topografico de la galeria del stress"
 description: "Una nueva topografia de la galeria del stress en cueva del agua"
 date: 2022-11-10T00:19:59+01:00
-lastmod: 2022-11-17T12:52:12+01:00
+lastmod: 2024-04-24T09:52:12+01:00
 draft: false
 image: banner.png.webp
 categories:
