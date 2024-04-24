@@ -29,6 +29,6 @@ defaultContentLanguageInSubdir = true
 hasCJKLanguage = false
 
 # Change it to your Disqus shortname before using
-disqusShortname = "avances123"
+#disqusShortname = "avances123"
 
 enableRobotsTXT = false

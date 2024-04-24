@@ -5,7 +5,7 @@ date: 2023-11-20T00:47:56+01:00
 lastmod: 2024-04-24T09:52:12+01:00
 draft: false
 keywords: [buceo,espeleologia,material]
-image: IMG_20231125_111937.jpg
+image: IMG_20231125_111937.jpg.webp
 categories:
     - Equipo
 aliases:
@@ -24,36 +24,36 @@ Reutilizar cámaras de bicicleta viejas o pinchadas para hacer retenedores de la
 
 ### Reciclar
 Se coge una camara de bici que tengamos pinchada o inutil, si no tenemos se puede comprar, sigue siendo mucho mas barato.
-![Cámara original](IMG_20231125_111333.jpg)
+![Cámara original](IMG_20231125_111333.jpg.webp)
 
 ### Cortar transversalmente
 Se corta con unas tijeras el largo que deseamos, debe ser aproximadamente del diametro de la botella que queremos equipar, puesto que con la distancia que robaremos para hacer el nudo, quedara con la presion adecuada.
-![Camara cortada](IMG_20231125_111348.jpg)
+![Camara cortada](IMG_20231125_111348.jpg.webp)
 
 ### Cortar longitudinalmente
 Una vez tenemos el tubo cortado, con las tijeras cortamos longitudinalmente para ese tubo, convertirlo en un rectangulo.
-![Rectangulo de goma](IMG_20231125_111404.jpg)
+![Rectangulo de goma](IMG_20231125_111404.jpg.webp)
 
 ### Hacer fettuccini
 Ya solo nos queda usar las tijeras para volver a cortar longitudinalmente el rectangulo de goma, usando el grosor que queramos para nuestros retenedores
 
-![Recortando el rectangulo](IMG_20231125_111445.jpg)
-![Un par de fettuccini de goma](IMG_20231125_111549.jpg)
+![Recortando el rectangulo](IMG_20231125_111445.jpg.webp)
+![Un par de fettuccini de goma](IMG_20231125_111549.jpg.webp)
 
 ### Anudar en la botella
 
 Ya solo nos queda hacer bastante fuerza para tensar la goma todo lo posible y hacer un nudo fuerte para que quede apretado
 
-![Retenedor recien anudado](IMG_20231125_111813.jpg)
+![Retenedor recien anudado](IMG_20231125_111813.jpg.webp)
 
 ### Comprobar estabilidad
 Podemos probar si la tension es la adecuada, a mi me ha quedado perfecto como si fuera un retenedor comercial
 
-![Probando la tension de la goma](IMG_20231125_111859.jpg)
+![Probando la tension de la goma](IMG_20231125_111859.jpg.webp)
 
 ### Recortar lo sobrante
 Ahora quitamos con las tijeras la goma sobrante en el nudo, podemos dejar un poquito para luego poder usarlo como ayuda para estibar
-![Retenedor acabado](IMG_20231125_111937.jpg)
+![Retenedor acabado](IMG_20231125_111937.jpg.webp)
 
 ## Conclusión
 

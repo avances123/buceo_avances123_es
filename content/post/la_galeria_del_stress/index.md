@@ -25,7 +25,7 @@ Ademas esta vez, estabamos solos en la cueva, no habia mas equipos, y el agua es
 ## Antecedentes
 Sobre la topografia de la cueva no cabe critica alguna, desde mis inmersiones de formacion me ha ayudado muchisimo, y siempre ha sido muy util para mi, pudiendo llevar mis recuerdos de la cueva rapidamente al mapa, es verdad que hay ciertas zonas, que la topo esta en continuo desarrollo, y de eso se encarga el grupo de exploracion de la cueva. La pongo aqui para ver la dimension de la cueva
 
-![La galeria del stress en rojo en comparacion con toda la cueva](2.png)
+![La galeria del stress en rojo en comparacion con toda la cueva](2.png.webp)
 
 
 ## Explicacion del proyecto
@@ -39,7 +39,7 @@ La topografia se hecho con los rumbos y distancias de la topo oficial, y todo el
 ## Realizacion en casa
 Despues ya en casa, junto con la poligonal y las paredes que iba dibujando gracias al video, (y a pasar muchas veces ya por ahi) logre sacar una planta que me parecia muy aceptable y a varios compañeros que consulte tambien. La pongo aqui:
 
-![Dibujo a lapiz de la topo](planta_estress.jpg)
+![Dibujo a lapiz de la topo](planta_estress.jpg.webp)
 
 Con esta imagen, en therion he logrado pasar todos los elementos. Aunque sinceramente creo que a mi me gusta mas el dibujo a lapiz
 
@@ -50,7 +50,7 @@ Con esta imagen, en therion he logrado pasar todos los elementos. Aunque sincera
 
 El resultado despues del trabajo en therion es asi:
 
-![Topografia de la galeria del stress](therion.png)
+![Topografia de la galeria del stress](therion.png.webp)
 
 Si alquien quiere contribuir y mejorarla, toda la informacion es codigo abierto y esta [aqui](https://github.com/avances123/topografias/tree/master/stress)
 

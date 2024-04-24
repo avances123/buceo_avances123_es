@@ -75,7 +75,7 @@ Los datos de la poligonal la dejo en [github](https://github.com/avances123/topo
 ### Datos en 3D
 
 ![Poligonal sin paredes](poligonal3d.png)
-![Cueva en 3d](3d.gif)
+![Cueva en 3d](3dlow.gif)
 
 
 ## Video de la cueva completo
@@ -84,7 +84,7 @@ Los datos de la poligonal la dejo en [github](https://github.com/avances123/topo
 {{< youtube kd0dd4Yhx-o >}}
 
 
-## Conclusion
+## Conclusión
 
 Si te apetece una cueva de no mas de 120m de penetracion, estrecha y ratonera en un entorno precioso y un rio increible, esta cueva te va a encantar, espero con este post, poder hacerla un poco mas famosa para mis compañeros españoles y se animen ir si no han ido aun.
 
