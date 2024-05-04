@@ -20,7 +20,7 @@ In my previous writings, I've mentioned my habit of mapping the galleries when I
 ![One of the jumps at 100m](salto.png)
 
 ## The topography
-The original topography has a black background to enhance the cave's natural colors. Additionally, I've created an [alternative version](mapa_poly_negativo.png) with a white background and complementary colors to facilitate printing.
+The original topography has a black background to enhance the cave's natural colors. Additionally, I've created an [alternative version](https://buceo.avances123.es/es/p/topografia-de-los-primeros-200m-de-cueva-del-agua/mapa_poly_negativo.png) with a white background and complementary colors to facilitate printing.
 
 ![Topography of the first 200m of Cueva del Agua](mapa_poly.png)
 

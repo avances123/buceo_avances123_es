@@ -53,7 +53,7 @@ menu:
         layer.bindPopup(
         '<h1>'+feature.properties.nombre+'</h1>'+
         '<h5>Desarrollo: '+feature.properties.desarrollo+'m</h5>'+
-        '<a href="' + feature.properties.url + '"><img src="' + feature.properties.topografia +'" alt="HTML tutorial" style="width:200px;height:100px;"></a>'
+        '<a href="' + feature.properties.url + '"><img src="' + feature.properties.topografia +'" alt="'+ feature.properties.nombre +'" style="width:200px;height:100px;"></a>'
         );
     }
   });       
