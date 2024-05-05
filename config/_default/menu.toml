@@ -9,7 +9,7 @@ icon = "home"
 
 [[main]]
 identifier = "instructor"
-name = "sidemount.es"
+name = "Sidemount Spain"
 url = "https://www.sidemount.es"
 weight = -20
 [main.params]

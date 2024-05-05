@@ -204,6 +204,21 @@
           ],
           "type": "Point"
         }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 12,
+          "nombre": "Entrada Illa Mateua",
+          "tipo": "acceso"
+        },
+        "geometry": {
+          "coordinates": [
+            3.166871299639041,
+            42.11334742161881
+          ],
+          "type": "Point"
+        }
       }
     ]
   }
