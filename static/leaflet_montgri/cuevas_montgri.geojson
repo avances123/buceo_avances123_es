@@ -1,30 +1,6 @@
 {
     "type": "FeatureCollection",
-    "name": "cuevas_montgri",
-    "crs": {
-      "type": "name",
-      "properties": {
-        "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-      }
-    },
     "features": [
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 3,
-          "nombre": "Punta Grossa",
-          "url": "https://buceo.avances123.es/p/la-cova-de-punta-grossa/",
-          "topografia": "https://buceo.avances123.es/es/p/la-cova-de-punta-grossa/topografia.png",
-          "desarrollo": 42
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            3.171302972493861,
-            42.11448534286872
-          ]
-        }
-      },
       {
         "type": "Feature",
         "properties": {
@@ -35,11 +11,11 @@
           "desarrollo": 67
         },
         "geometry": {
-          "type": "Point",
           "coordinates": [
             3.16977769992208,
             42.11468224747249
-          ]
+          ],
+          "type": "Point"
         }
       },
       {
@@ -52,11 +28,28 @@
           "desarrollo": 40
         },
         "geometry": {
-          "type": "Point",
           "coordinates": [
             3.17040144848975,
             42.11459220864658
-          ]
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 3,
+          "nombre": "Punta Grossa",
+          "url": "https://buceo.avances123.es/p/la-cova-de-punta-grossa/",
+          "topografia": "https://buceo.avances123.es/es/p/la-cova-de-punta-grossa/topografia.png",
+          "desarrollo": 42
+        },
+        "geometry": {
+          "coordinates": [
+            3.171302972493861,
+            42.11448534286872
+          ],
+          "type": "Point"
         }
       },
       {
@@ -70,8 +63,42 @@
         },
         "geometry": {
           "coordinates": [
-            3.172038359088475,
-            42.112972587823606
+            3.1720546043490288,
+            42.11306096266131
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 4,
+          "nombre": "Les Cambres",
+          "url": "https://buceo.avances123.es/p/les-cambres/",
+          "topografia": "https://buceo.avances123.es/es/p/les-cambres/topografia.png",
+          "desarrollo": 90
+        },
+        "geometry": {
+          "coordinates": [
+            3.1749170071636,
+            42.111486343637495
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": 5,
+          "nombre": "L'Espirograf",
+          "url": "https://buceo.avances123.es/p/lespirograf/",
+          "topografia": "https://buceo.avances123.es/es/p/lespirograf/topografia.png",
+          "desarrollo": 40
+        },
+        "geometry": {
+          "coordinates": [
+            3.170132227038323,
+            42.11471868061224
           ],
           "type": "Point"
         }
