@@ -40,6 +40,8 @@ Al llegar al agua, la mala visibilidad que había observado el primer día se co
 
 De vuelta en tierra, seguimos grabando. Capturamos el proceso de desmontaje y recogida del equipo, así como nuestras reflexiones sobre la experiencia. Aunque no pudimos bucear como habíamos planeado, la jornada fue productiva en términos de contenido. Conseguimos muchas tomas interesantes que esperamos poder editar en un video atractivo, mostrando tanto los desafíos como la belleza del entorno. Con todo el material recogido, nos sentimos satisfechos por haber aprovechado al máximo el día, a pesar de las dificultades encontradas.
 
+![Carrete al finalizar el buceo](3.webp)
+
 
 
 # Dia de edición de video
