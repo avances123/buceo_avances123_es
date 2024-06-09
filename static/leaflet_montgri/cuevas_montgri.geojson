@@ -60,8 +60,8 @@
         "properties": {
           "id": 3,
           "nombre": "La Xinxa",
-          "url": "https://buceo.avances123.es/p/la-xinxa/",
-          "topografia": "https://buceo.avances123.es/es/p/la-xinxa/topografia.png",
+          "url": "https://buceo.avances123.es/p/la-cova-de-la-xinxa/",
+          "topografia": "https://buceo.avances123.es/es/p/la-cova-de-la-xinxa/topografia.png",
           "desarrollo": 90,
           "tipo": "cueva"
         },
