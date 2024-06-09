@@ -9,8 +9,8 @@ links:
   - title: Subsurface
     description: El referente opensource para registrar inmersiones
     website: https://subsurface-divelog.org/
-    image: https://subsurface-divelog.org/wp-content/uploads/2015/10/subsurface-icon1.png
-
+    image: https://subsurface-divelog.org/static/images/subsurface-icon.png
+    
 
 menu:
     main: 
