@@ -89,11 +89,18 @@ menu:
 
   var geojsonLayer = new L.GeoJSON.AJAX("https://buceo.avances123.es/leaflet_montgri/cuevas_montgri.geojson",{
     onEachFeature: function (feature, layer) {
-        layer.bindPopup(
-        '<h1>'+feature.properties.nombre+'</h1>'+
-        '<h5>Desarrollo: '+feature.properties.desarrollo+'m</h5>'+
-        '<a href="' + feature.properties.url + '"><img src="' + feature.properties.topografia +'" alt="'+ feature.properties.nombre +'" style="width:200px;height:100px;"></a>'
-        );
+        if (feature.properties.url){
+          layer.bindPopup(
+            '<h1>'+feature.properties.nombre+'</h1>'+
+            '<h5>Desarrollo: '+feature.properties.desarrollo+'m</h5>'+
+            '<a href="' + feature.properties.url + '"><img src="' + feature.properties.topografia +'" alt="'+ feature.properties.nombre +'" style="width:200px;height:100px;"></a>'
+          );
+        } else {
+          layer.bindPopup(
+            '<h1>'+feature.properties.nombre+'</h1>'+
+          );
+        }
+
     },
     pointToLayer: function (feature, latlng) {
         var tipo = feature.properties.tipo;
