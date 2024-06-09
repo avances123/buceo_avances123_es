@@ -97,7 +97,7 @@ menu:
           );
         } else {
           layer.bindPopup(
-            '<h1>'+feature.properties.nombre+'</h1>'+
+            '<h1>'+feature.properties.nombre+'</h1>'
           );
         }
 
