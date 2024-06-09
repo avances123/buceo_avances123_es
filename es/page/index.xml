@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Proyectos y utilidades on Buceo en Cuevas</title><link>https://buceo.avances123.es/es/page/</link><description>Recent content in Proyectos y utilidades on Buceo en Cuevas</description><generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Mon, 06 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://buceo.avances123.es/es/page/index.xml" rel="self" type="application/rss+xml"/><item><title>Cuevas del Montgri</title><link>https://buceo.avances123.es/es/mapa_montgri/</link><pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate><guid>https://buceo.avances123.es/es/mapa_montgri/</guid><description>&lt;!DOCTYPE html>
+&lt;html>
+&lt;head>
+&lt;title>Static Data with Leaflet&lt;/title>
+&lt;meta charset="utf-8">
+&lt;meta name="viewport" content="width=device-width, initial-scale=1.0">
+&lt;link href="https://cdn.jsdelivr.net/gh/ptma/Leaflet.Legend@master/src/leaflet.legend.css" rel="stylesheet">
+&lt;link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.css" integrity="sha512-Zcn6bjR/8RZbLEpLIeOwNtzREBAJnUKESxces60Mpoj+2okopSAcSUIUOseddDm0cxnGQzxIR7vJgsLZbdLE3w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+&lt;script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js" integrity="sha512-BwHfrr4c9kmRkLw6iXFdzcdWV/PGkVgiIyIWLLlTSXzWQzxuSg4DiQUCpauz/EWjgk5TYQqX/kvn9pG1NpYfqg==" crossorigin="anonymous" referrerpolicy="no-referrer">&lt;/script>
+&lt;script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.min.js" integrity="sha512-Abr21JO2YqcJ03XGZRPuZSWKBhJpUAR6+2wH5zBeO4wAw4oksr8PRdF+BKIRsxvCdq+Mv4670rZ+dLnIyabbGw==" crossorigin="anonymous" referrerpolicy="no-referrer">&lt;/script>
+&lt;script src="https://cdn.jsdelivr.net/gh/ptma/Leaflet.Legend@master/src/leaflet.legend.js">&lt;/script>
+&lt;/head>
+&lt;body>
+&lt;div id="map" style="width: 100%; height: 600px">&lt;/div>
+&lt;style>
+.leaflet-legend{
+color: #000;
+font-size: 12px;
+}
+&lt;/style>
+&lt;script>
+var tileUrl;
+var bounds = new L.LatLngBounds(new L.LatLng(42.0042, 3.13024), new L.LatLng(42.21774, 3.28647));
+var map = L.map('map', {
+center: bounds.getCenter(),
+minZoom: 16,
+maxZoom: 18,
+maxBounds: bounds,
+maxBoundsViscosity: 0.75
+}).setView([42.111202,3.170544], 16);
+var OpenStreetMap_Mapnik = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+maxZoom: 19,
+attribution: '&amp;copy; &lt;a href="https://www.openstreetmap.org/copyright">OpenStreetMap&lt;/a> contributors'
+});
+var Esri_WorldImagery = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+attribution: ''
+});
+Esri_WorldImagery.addTo(map);
+var estilo_cuevas = {
+radius: 6,
+fillColor: "#ff0000",
+color: "#000",
+weight: 1,
+opacity: 1,
+fillOpacity: 0.8
+};
+var estilo_tuneles = {
+radius: 6,
+fillColor: "#00ff00",
+color: "#000",
+weight: 1,
+opacity: 1,
+fillOpacity: 0.8
+};
+var estilo_accesos = {
+radius: 6,
+fillColor: "#0000ff",
+color: "#000",
+weight: 1,
+opacity: 1,
+fillOpacity: 0.8
+};
+var geojsonLayer = new L.GeoJSON.AJAX("https://buceo.avances123.es/leaflet_montgri/cuevas_montgri.geojson",{
+onEachFeature: function (feature, layer) {
+if (feature.properties.url){
+layer.bindPopup(
+'&lt;h1>'+feature.properties.nombre+'&lt;/h1>'+
+'&lt;h5>Desarrollo: '+feature.properties.desarrollo+'m&lt;/h5>'+
+'&lt;a href="' + feature.properties.url + '">&lt;img src="' + feature.properties.topografia +'" alt="'+ feature.properties.nombre +'" style="width:200px;height:100px;">&lt;/a>'
+);
+} else {
+layer.bindPopup(
+'&lt;h1>'+feature.properties.nombre+'&lt;/h1>'
+);
+}
+},
+pointToLayer: function (feature, latlng) {
+var tipo = feature.properties.tipo;
+var estilo = estilo_cuevas;
+if (tipo == 'cueva'){
+estilo = estilo_cuevas;
+}
+if (tipo == 'tunel'){
+estilo = estilo_tuneles;
+}
+if (tipo == 'acceso'){
+estilo = estilo_accesos;
+}
+return L.circleMarker(latlng, estilo);
+}
+});
+geojsonLayer
+.addTo(map);
+var marker1 = L.circleMarker([0.0], estilo_accesos)
+var Legend = new L.Control.Legend({
+position: "bottomleft",
+collapsed: false,
+symbolWidth: 24,
+opacity: 1,
+column: 1,
+title: "Tipos de marcador",
+legends: [{
+label: "Acceso",
+type: "circle",
+radius: 6,
+fillColor: "#0000ff",
+color: "#000",
+weight: 1,
+opacity: 1,
+fillOpacity: 1,
+inactive: false,
+},
+{
+label: "Túnel",
+type: "circle",
+radius: 6,
+fillColor: "#00ff00",
+color: "#000",
+weight: 1,
+opacity: 1,
+fillOpacity: 1,
+inactive: false,
+},
+{
+label: "Cueva",
+type: "circle",
+radius: 6,
+fillColor: "#ff0000",
+color: "#000",
+weight: 1,
+opacity: 1,
+fillOpacity: 1,
+inactive: false,
+}]
+});
+map.addControl( Legend );
+&lt;/script>
+&lt;/body>
+&lt;/html>
+&lt;p>Desde hace tiempo estoy escaneando la pared de la peninsula del montgo, si tengo oportunidad, topografío cada cueva que veo medianamente significativa. Para ello empleo mi scooter para viajar al punto, mi ordenador de buceo y la boya para ascender a la superficie y tomar las coordenadas de la entrada, y una plantilla, hilo y cookies para la poligonal. Ademas grabo desde mi casco y otra pasada manual con la gopro para luego en casa dibujar las paredes de la cueva.&lt;/p>
+&lt;p>Espero poder ayudar a los siguiente buceadores a conocer mas esta fantastica pared y que puedan disponer de la mayor informacion posible.&lt;/p></description></item><item><title>Archivo</title><link>https://buceo.avances123.es/es/archives/</link><pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate><guid>https://buceo.avances123.es/es/archives/</guid><description/></item><item><title>Busqueda</title><link>https://buceo.avances123.es/es/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://buceo.avances123.es/es/search/</guid><description/></item><item><title>Enlaces</title><link>https://buceo.avances123.es/es/enlaces/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://buceo.avances123.es/es/enlaces/</guid><description>&lt;p>¿Te has preguntado alguna vez qué hay detrás de esas páginas web donde colaboro? Bueno, la verdad es que hay mucho más de lo que puedes imaginar.&lt;/p>
+&lt;p>Por un lado, hay montones de personas trabajando arduamente para mantener estas páginas actualizadas y llenas de contenido interesante. Pero también hay un montón de cosas divertidas que ocurren detrás de escena.&lt;/p>
+&lt;p>Aqui te dejo una coleccion que te puede ser útil.&lt;/p></description></item></channel></rss>
