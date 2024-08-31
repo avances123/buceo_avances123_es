@@ -1,5 +1,5 @@
 ---
-title: "Meterologia para el buceo"
+title: "Meteorologia para el buceo"
 description: "Un par de ideas sobre meteo para buceadores"
 date: 2022-04-06T00:47:56+01:00
 lastmod: 2024-04-24T09:52:12+01:00
