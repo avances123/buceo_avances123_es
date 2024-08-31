@@ -1,7 +1,7 @@
 ---
 title: "Mi equipo"
 date: 2021-12-11T01:06:47+01:00
-lastmod: 2024-04-24T09:52:12+01:00
+lastmod: 2024-08-31T09:52:12+01:00
 draft: false
 image: 1.jpg.webp
 categories:
@@ -14,10 +14,11 @@ Aqui hay mucho debate y gustos sobre que usar, yo pongo lo que he usado esta ult
 
 ## Traje
  * TDS Bylot de 7mm, un humedo que hace su trabajo, abriga mucho y tiene un bolsillo incorporado donde llevo el block de notas.
- * Scubapro Evertec , seco trilaminado muy viejo pero no entra agua. Mi sueño algun dia es comprar un SFTech.
+ * Artic 450, seco trilaminado de kevlar.
 
 ## Aletas
 * Apeks RK3 Son neutras y parece que impulsan poco, pero no he podido probar otras aun.
+* Dive Rite XT, para el traje seco
 
 ## Mascara
 * Aqualung Teknika La llevo graduada para poder ver los nudibranquios.
