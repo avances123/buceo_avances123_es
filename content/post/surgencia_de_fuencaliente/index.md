@@ -4,7 +4,7 @@ description: "Buceo en la cueva mas bonita de España"
 date: 2024-08-31T00:47:56+01:00
 lastmod: 2024-08-31T09:52:12+01:00
 draft: false
-image: vlcsnap-2024-08-31-10h25m34s302.png
+image: 1.webp
 categories:
     - Exploracion
 
