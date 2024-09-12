@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Documentation on Plongée souterraine Espagne</title><link>https://buceo.avances123.es/fr/tags/documentation/</link><description>Recent content in Documentation on Plongée souterraine Espagne</description><generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Wed, 06 Apr 2022 00:47:56 +0100</lastBuildDate><atom:link href="https://buceo.avances123.es/fr/tags/documentation/index.xml" rel="self" type="application/rss+xml"/><item><title>Météorologie pour la plongée sous-marine</title><link>https://buceo.avances123.es/fr/p/m%C3%A9t%C3%A9orologie-pour-la-plong%C3%A9e-sous-marine/</link><pubDate>Wed, 06 Apr 2022 00:47:56 +0100</pubDate><guid>https://buceo.avances123.es/fr/p/m%C3%A9t%C3%A9orologie-pour-la-plong%C3%A9e-sous-marine/</guid><description>&lt;img src="https://buceo.avances123.es/es/p/meteorologia-para-el-buceo/entrada.png.webp" alt="Featured image of post Météorologie pour la plongée sous-marine" />&lt;h1 id="comment-déterminer-la-météorologie-pour-la-plongée">Comment déterminer la météorologie pour la plongée&lt;/h1>
+&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>Chacun d&amp;rsquo;entre nous, lors de la planification d&amp;rsquo;une plongée, se préoccupe toujours de l&amp;rsquo;état de la mer au moment de l&amp;rsquo;immersion. Notre passe-temps favori se déroule en plein air et &lt;strong>dans&lt;/strong> le milieu marin, ce qui fait que nous dépendons énormément de la météorologie pour mener à bien notre plongée.&lt;/p>
+&lt;p>À mon avis, il est inutile de faire une planification complexe de la plongée et ensuite de négliger une interprétation correcte des conditions météorologiques attendues pour ce jour-là. La météo peut entraîner un report de l&amp;rsquo;immersion, il est donc important de le savoir avec le plus de certitude possible.&lt;/p>
+&lt;p>Bien sûr, presque tous ont une façon ou une autre de consulter l&amp;rsquo;état de la mer pour leurs plongées. En raison de mon intérêt pour le sujet, j&amp;rsquo;ai toujours posé des questions, et dans presque tous les cas, j&amp;rsquo;ai constaté que des applications météorologiques pour téléphones portables étaient consultées. Ces applications fournissent des données sur la houle, le vent, etc., sont très pratiques, gratuites et toujours disponibles. Cependant, dans ce billet, je vais me concentrer sur d&amp;rsquo;autres sources, un peu plus cachées mais non moins utiles, qui nous aideront beaucoup dans cette tâche.&lt;/p>
+&lt;p>Je vais me concentrer sur des données que je n&amp;rsquo;ai pas vu être utilisées par qui que ce soit et que je peux apporter à la communauté des plongeurs. Enfin, je parlerai des applications conventionnelles et de certaines améliorations cachées que nous pouvons utiliser pour interpréter et établir une prévision améliorée.&lt;/p>
+&lt;h2 id="facteurs-météorologiques-à-prendre-en-compte">Facteurs météorologiques à prendre en compte&lt;/h2>
+&lt;p>Pour une bonne planification, nous devrions avoir un ordinateur devant nous et nous concentrer sur plusieurs facteurs météorologiques concernant la plongée. Voici les éléments énumérés. Pour tous ces éléments, nous devons connaître le point géographique de l&amp;rsquo;immersion et la date, car nous devons consulter les prévisions pour cet endroit et ce moment spécifique.&lt;/p>
+&lt;h3 id="hauteur-significative-des-vagues">Hauteur significative des vagues&lt;/h3>
+&lt;p>À mon avis, c&amp;rsquo;est la variable déterminante pour la viabilité de l&amp;rsquo;immersion, et elle nécessite le maximum de précision possible dans les prévisions à cet endroit. Pour cela, sur la péninsule ibérique, j&amp;rsquo;utilise le modèle météorologique généré par &lt;a class="link" href="https://www.puertos.es/es-es/oceanografia/AccesoSimplificado" target="_blank" rel="noopener"
+>Ports de l&amp;rsquo;État&lt;/a>. Ce modèle utilise les prévisions de vent de HARMONIE d&amp;rsquo;AEMET et de HRES-ECMWF pour les horizons suivants après 48 heures. De plus, il fournit des données d&amp;rsquo;observations de plusieurs bouées installées à proximité des ports, ce qui améliore considérablement le modèle à ces endroits.&lt;/p>
+&lt;p>Par exemple, si nous voulions savoir quelles vagues nous aurons au site de plongée Dragonera, situé dans le port de Tarragone, nous pourrions consulter le modèle et sa qualité de prédiction à cet endroit.&lt;/p>
+&lt;p>&lt;img src="https://buceo.avances123.es/es/p/meteorologia-para-el-buceo/2.png.webp"
+width="1615"
+height="268"
+srcset="https://buceo.avances123.es/es/p/meteorologia-para-el-buceo/2.png_hu8708285690629023918.webp 480w, https://buceo.avances123.es/es/p/meteorologia-para-el-buceo/2.png_hu355433170010402531.webp 1024w"
+loading="lazy"
+alt="Derniers jours de prévision/observation à Tarragone"
+class="gallery-image"
+data-flex-grow="602"
+data-flex-basis="1446px"
+>&lt;/p>
+&lt;p>Pour le site de plongée Dragonera, nous avons beaucoup de chance car c&amp;rsquo;est un endroit pour lequel nous disposons d&amp;rsquo;observations grâce à une bouée qui enregistre avec une granularité horaire la hauteur des vagues. Il existe plusieurs autres points, toujours des bouées qui aident à la prédiction de la houle &lt;em>dans les ports&lt;/em>, car les vagues dans le monde portuaire nous intéressent toujours plus que celles du monde de la plongée.&lt;/p>
+&lt;p>&lt;img src="https://buceo.avances123.es/es/p/meteorologia-para-el-buceo/1.png.webp"
+width="838"
+height="635"
+srcset="https://buceo.avances123.es/es/p/meteorologia-para-el-buceo/1.png_hu18157865649175420721.webp 480w, https://buceo.avances123.es/es/p/meteorologia-para-el-buceo/1.png_hu16084508332393472140.webp 1024w"
+loading="lazy"
+alt="Bouées avec données mises à jour sur la hauteur des vagues"
+class="gallery-image"
+data-flex-grow="131"
+data-flex-basis="316px"
+>&lt;/p>
+&lt;p>Cela ne signifie pas que nous devons interpoler manuellement la prédiction à l&amp;rsquo;endroit qui nous intéresse, le modèle lui-même nous fournit une prédiction sur toute la grille de points du modèle. Ainsi, nous pouvons consulter la prédiction pour notre point.&lt;/p>
+&lt;p>&lt;img src="https://buceo.avances123.es/es/p/meteorologia-para-el-buceo/3.png.webp"
+width="1019"
+height="687"
+srcset="https://buceo.avances123.es/es/p/meteorologia-para-el-buceo/3.png_hu18153683925739452024.webp 480w, https://buceo.avances123.es/es/p/meteorologia-para-el-buceo/3.png_hu16913286952487153790.webp 1024w"
+loading="lazy"
+alt="Points de prédiction des vagues"
+class="gallery-image"
+data-flex-grow="148"
+data-flex-basis="355px"
+>&lt;/p>
+&lt;p>Si nous consultons un point, nous pouvons voir les données sous forme de tableau de toutes les variables du modèle, pas seulement de la hauteur significative, mais aussi du période et de la direction de la vague, de la composante de houle de fond ou de vent de la vague, etc. Il y a également des données sur le vent à cet endroit, ce qui peut toujours être utile pour se faire une idée des vents locaux et de l&amp;rsquo;état de la mer grâce à une autre voie d&amp;rsquo;expérience de l&amp;rsquo;observateur.&lt;/p>
+&lt;p>&lt;img src="https://buceo.avances123.es/es/p/meteorologia-para-el-buceo/4.png.webp"
+width="1050"
+height="475"
+srcset="https://buceo.avances123.es/es/p/meteorologia-para-el-buceo/4.png_hu2710413128485115386.webp 480w, https://buceo.avances123.es/es/p/meteorologia-para-el-buceo/4.png_hu5596130804796961678.webp 1024w"
+loading="lazy"
+alt="Prévision à un point donné"
+class="gallery-image"
+data-flex-grow="221"
+data-flex-basis="530px"
+>&lt;/p>
+&lt;p>De plus, sur &lt;a class="link" href="https://myocean.marine.copernicus.eu/data?view=dataset&amp;amp;dataset=MEDSEA_ANALYSISFORECAST_WAV_006_017" target="_blank" rel="noopener"
+>Copernicus&lt;/a>, nous disposons de ce modèle WAN sans être amélioré par HARMONIE d&amp;rsquo;Aemet.&lt;/p>
+&lt;h3 id="température-de-leau">Température de l&amp;rsquo;eau&lt;/h3>
+&lt;p>Cette variable nous affecte beaucoup en plongée, mais elle n&amp;rsquo;est pas réellement prédite car il est assez facile de déduire la température à partir de la date de l&amp;rsquo;année et des observations antérieures pour cette même date dans le passé.&lt;/p>
+&lt;p>Sur &lt;a class="link" href="https://myocean.marine.copernicus.eu/light" target="_blank" rel="noopener"
+>Copernicus&lt;/a>, nous pouvons consulter les prévisions de température à notre point d&amp;rsquo;immersion ainsi qu&amp;rsquo;un historique du modèle analysé.&lt;/p>
+&lt;p>&lt;img src="https://buceo.avances123.es/es/p/meteorologia-para-el-buceo/5.png.webp"
+width="1913"
+height="928"
+srcset="https://buceo.avances123.es/es/p/meteorologia-para-el-buceo/5.png_hu15463153307385759750.webp 480w, https://buceo.avances123.es/es/p/meteorologia-para-el-buceo/5.png_hu8041965586688895485.webp 1024w"
+loading="lazy"
+alt="Prévision quotidienne de la température de l&amp;rsquo;eau"
+class="gallery-image"
+data-flex-grow="206"
+data-flex-basis="494px"
+>&lt;/p>
+&lt;p>Ici, je veux apporter une autre source qui est assez utile pour les voyages de plongée, lorsque nous voulons connaître la température à un endroit de la planète éloigné de notre expérience et de nos latitudes, et lorsque nous voulons savoir quoi emporter comme équipement. Sur &lt;a class="link" href="https://climexp.knmi.nl/monthly_overview_world_weather/index.cgi?var=sst_ncep_w&amp;amp;mon1=jan&amp;amp;year1=2021&amp;amp;anomalie=nee&amp;amp;kort=nee&amp;amp;expert=nee&amp;amp;type=kaartwereld" target="_blank" rel="noopener"
+>WMO&lt;/a>, nous pouvons explorer la température moyenne d&amp;rsquo;un mois à n&amp;rsquo;importe quel endroit de la planète. Ce n&amp;rsquo;est pas précis, mais cela peut nous aider à planifier un voyage en connaissant la date et la destination.&lt;/p>
+&lt;p>&lt;img src="https://buceo.avances123.es/es/p/meteorologia-para-el-buceo/6.png.webp"
+width="876"
+height="870"
+srcset="https://buceo.avances123.es/es/p/meteorologia-para-el-buceo/6.png_hu583121573678615602.webp 480w, https://buceo.avances123.es/es/p/meteorologia-para-el-buceo/6.png_hu8775532450049670691.webp 1024w"
+loading="lazy"
+alt="Informations mensuelles sur la température de l&amp;rsquo;eau"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="241px"
+>&lt;/p>
+&lt;p>La NASA dispose également d&amp;rsquo;une autre mission appelée &lt;a class="link" href="https://podaac.jpl.nasa.gov/dataset/MUR-JPL-L4-GLOB-v4.1" target="_blank" rel="noopener"
+>MUR&lt;/a> qui mesure la température marine à l&amp;rsquo;échelle mondiale. Elle peut être visualisée avec l&amp;rsquo;outil de la NASA &lt;a class="link" href="https://soto.podaac.earthdatacloud.nasa.gov/?v=-18.78720059082591,30.727507641081075,21.28282587652165,50.51208320933394" target="_blank" rel="noopener"
+>worldview&lt;/a>.&lt;/p>
+&lt;h3 id="courant">Courant&lt;/h3>
+&lt;p>Cette variable nous affecte également en plongée, et quel plongeur n&amp;rsquo;a jamais rêvé de savoir quel jour il n&amp;rsquo;y aura pas de courant sur ce site de plongée incroyable ? Cependant, je n&amp;rsquo;ai pas étudié cette variable autant jusqu&amp;rsquo;à présent. Je vois qu&amp;rsquo;il existe une donnée de vitesse de l&amp;rsquo;eau dans le plan horizontal, mais je ne comprends pas encore quels niveaux verticaux sont utilisés pour mesurer et/ou prédire.&lt;/p>
+&lt;p>Sur &lt;a class="link" href="https://myocean.marine.copernicus.eu/data?view=dataset&amp;amp;dataset=MEDSEA_ANALYSISFORECAST_PHY_006_013" target="_blank" rel="noopener"
+>Copernicus&lt;/a>, nous pouvons voir les données de courant dans plusieurs ensembles de données, c&amp;rsquo;est également la variable disponible sur Windy. Je n&amp;rsquo;ai jamais pu plonger suffisamment de fois pour contraster en tant que plongeur si elle est utile, mais ce serait génial de pouvoir le faire.&lt;/p>
+&lt;p>&lt;img src="https://buceo.avances123.es/es/p/meteorologia-para-el-buceo/7.png.webp"
+width="1709"
+height="896"
+srcset="https://buceo.avances123.es/es/p/meteorologia-para-el-buceo/7.png_hu15542851076304504112.webp 480w, https://buceo.avances123.es/es/p/meteorologia-para-el-buceo/7.png_hu3876910916910007943.webp 1024w"
+loading="lazy"
+alt="Prévision de courants marins"
+class="gallery-image"
+data-flex-grow="190"
+data-flex-basis="457px"
+>&lt;/p>
+&lt;h3 id="pluie-et-vent">Pluie et vent&lt;/h3>
+&lt;p>Bien qu&amp;rsquo;il soit conseillé de consulter également ces variables, je les considère personnellement moins importantes même si elles peuvent entraîner d&amp;rsquo;autres facteurs tels que la &lt;strong>visibilité&lt;/strong> qui nous intéresse, en étudiant les jours passés de pluie et de tempêtes, nous pouvons déduire une mauvaise ou bonne visibilité, par exemple.&lt;/p>
+&lt;p>Nous pouvons également planifier si nous allons en voilier, ou si le transport de l&amp;rsquo;équipement nous oblige à marcher sous la pluie ou pour toute autre raison plus extravagante qui pourrait nous affecter. Dans tous les cas, pour ces variables, je renvoie au point suivant sur les applications conventionnelles.&lt;/p>
+&lt;h2 id="la-voie-conventionnelle">La voie conventionnelle&lt;/h2>
+&lt;p>Pour consulter la météo à un endroit, nous utiliserons l&amp;rsquo;application &lt;a class="link" href="https://windy.com" target="_blank" rel="noopener"
+>Windy&lt;/a>. Il y en avait plusieurs autres, mais cette application est de plus en plus populaire auprès de tout le monde car elle regroupe le plus grand nombre de couches, de modèles et de données.&lt;/p>
+&lt;p>Je recommande, pour une planification sérieuse, d&amp;rsquo;utiliser un ordinateur plutôt qu&amp;rsquo;un téléphone portable si possible, car c&amp;rsquo;est là que nous pouvons utiliser toute l&amp;rsquo;interface de l&amp;rsquo;application. Nous pouvons y trouver des informations sur toutes les variables précédemment décrites, bien que nous perdions un peu de précision au niveau du point spécifique, nous gagnons la capacité d&amp;rsquo;avoir une prévision à n&amp;rsquo;importe quel endroit de la planète, pas seulement sur la péninsule ibérique.&lt;/p>
+&lt;p>En plus de consulter la houle ici, nous pouvons également nous renseigner sur &amp;ldquo;comment sera la journée&amp;rdquo; en général (température, pluie et vent). Pour ce faire, au lieu d&amp;rsquo;ouvrir l&amp;rsquo;application et de consulter la première prévision qu&amp;rsquo;elle nous fournit, je recommande de faire une vue &lt;strong>multi-modèle&lt;/strong> de ces variables, voici comment procéder :&lt;/p>
+&lt;p>&lt;img src="https://buceo.avances123.es/es/p/meteorologia-para-el-buceo/8.png.webp"
+width="1915"
+height="249"
+srcset="https://buceo.avances123.es/es/p/meteorologia-para-el-buceo/8.png_hu10349930242904171665.webp 480w, https://buceo.avances123.es/es/p/meteorologia-para-el-buceo/8.png_hu4772426397246665515.webp 1024w"
+loading="lazy"
+alt="1. Aller à la prévision du point et cliquer sur le bouton comparer"
+class="gallery-image"
+data-flex-grow="769"
+data-flex-basis="1845px"
+>&lt;/p>
+&lt;p>&lt;img src="https://buceo.avances123.es/es/p/meteorologia-para-el-buceo/9.png.webp"
+width="1438"
+height="819"
+srcset="https://buceo.avances123.es/es/p/meteorologia-para-el-buceo/9.png_hu13332880161087571456.webp 480w, https://buceo.avances123.es/es/p/meteorologia-para-el-buceo/9.png_hu2750586246982387981.webp 1024w"
+loading="lazy"
+alt="2. Voir les mêmes données produites par plusieurs modèles"
+class="gallery-image"
+data-flex-grow="175"
+data-flex-basis="421px"
+>&lt;/p>
+&lt;p>Cela nous aidera si nous voyons un consensus dans la prévision ou s&amp;rsquo;il y a des divergences entre les modèles. C&amp;rsquo;est toujours la même chose, une consultation de la météo, mais en la regardant à travers 4 ou 5 sources, ce qui peut toujours nous donner une vision plus large du degré d&amp;rsquo;incertitude que les modèles gèrent pour ce point à ce moment spécifique.&lt;/p></description></item></channel></rss>

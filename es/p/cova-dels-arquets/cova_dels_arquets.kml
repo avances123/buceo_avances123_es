@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Folder>
+<Style id="ThSurveyLine"> <LineStyle> <color>ffffff00</color> <width>1</width> </LineStyle> </Style>
+<Style id="ThSurveyLineSurf"> <LineStyle> <color>ffcccccc</color> <width>1</width> </LineStyle> </Style>
+<Style id="ThEntranceIcon"> <IconStyle> <Icon> <href>https://therion.speleo.sk/downloads/KmlIconEntrance.png</href> </Icon> <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction" /> </IconStyle> </Style>
+<Icon> <href>https://therion.speleo.sk/downloads/KmlIconModel.png</href> </Icon>
+<name><![CDATA[Cova dels arquets]]></name>
+<description><![CDATA[Length 70 m<br>Depth 6 m]]></description>
+<Placemark>
+<styleUrl>#ThEntranceIcon</styleUrl><name><![CDATA[Cova dels arquets]]></name>
+<Point> <coordinates>3.21232467459739,42.05815079784891,-8.00000000000000</coordinates> </Point>
+</Placemark>
+<Folder>
+<name><![CDATA[inicial]]></name>
+<Placemark>
+<name>0</name>
+<styleUrl>#ThSurveyLine</styleUrl>
+<MultiGeometry>
+<LineString><coordinates>
+	3.21232467459739,42.05815079784891,-8.00000000000000 	3.21219694370854,42.05809968148160,-7.70000000000000 	3.21209158284540,42.05802585562958,-6.80000000000000 	3.21202082492089,42.05802747950276,-5.50000000000000 
+</coordinates></LineString>
+</MultiGeometry>
+</Placemark>
+</Folder>
+<Folder>
+<name><![CDATA[inventado]]></name>
+<Placemark>
+<name>0</name>
+<styleUrl>#ThSurveyLine</styleUrl>
+<MultiGeometry>
+<LineString><coordinates>
+	3.21202082492089,42.05802747950276,-5.50000000000000 	3.21153898917692,42.05803856030253,-2.50000000000000 
+</coordinates></LineString>
+</MultiGeometry>
+</Placemark>
+</Folder>
+</Folder>
+</kml>
