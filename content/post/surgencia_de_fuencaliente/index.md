@@ -1,6 +1,6 @@
 ---
 title: "Surgencia de Fuencaliente"
-description: "Buceo en la cueva mas bonita de España"
+description: "Buceo en la cueva mas bonita de la peninsula"
 date: 2024-08-31T00:47:56+01:00
 lastmod: 2024-08-31T09:52:12+01:00
 draft: false
@@ -23,6 +23,10 @@ La salida a la burbuja del S1 es brutal, se ve el tunel que sigue de galeria, y 
 
 {{< youtube mSofd4LnTMI >}}
 
+# Topografia e informacion
+En la pagina del GAEM esta la topografia y muchos diarios de exploraciones
+
+![Topografia](2.jpg)
 
 # Futuros planes
 
