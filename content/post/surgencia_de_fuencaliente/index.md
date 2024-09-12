@@ -28,6 +28,8 @@ En la pagina del GAEM esta la topografia y muchos diarios de exploraciones
 
 ![Topografia](2.jpg)
 
+
+
 # Futuros planes
 
 Tenemos que volver y probar a pasar la ratonera, como el porteo es muy facil, llevaremos una etapa (o dos) de 12L para hacer el S1 y un scooter, asi pasaremos el S1 rapidamente y sin gasto de gas, con las sacas de las botellas pequeñas para seguir porteando, el scooter se quedara en el S1 , por si los trajes se pinchan en la ratonera, salir rapidamente con scooter hacia la salida estando innundados.
