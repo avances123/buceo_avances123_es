@@ -1,0 +1,10 @@
+{{- $bundle := resources.Match "css/_*.css" | resources.Concat "css/bundle.css" -}}
+{{- range (slice $bundle | append (resources.Match "css/[!_]*.css")) }}
+  {{- if eq hugo.Environment "development" }}
+    <link rel="stylesheet" href="{{ .RelPermalink }}">
+  {{- else }}
+    {{- with . | minify | fingerprint }}
+      <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+    {{- end }}
+  {{- end }}
+{{- end }}

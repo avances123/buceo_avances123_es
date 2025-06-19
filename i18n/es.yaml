@@ -1,0 +1,34 @@
+# Root
+theme_light: Light Theme
+theme_dark: Dark Theme
+
+# Not found (404)
+not_found_title: Whoops, page not found!
+not_found_desc: Not all who wander are lost, but there's nothing left to explore here
+not_found_home_link: Go Home
+
+# Footer
+scroll_top: Vuelve arriba
+footer: Instructor de  {{ .NegocioAnchor }}
+
+# Home
+featured_posts: Articulos Fijados
+recent_posts: Articulos Recientes
+#
+# Search
+js_required: It's necessary to enable Javascript
+search_loading: Cargando...
+search_placeholder: Buscar...
+
+# SidePane for home
+see_all: Mira todos...
+
+# Page
+breadcrumb_home: Inicio
+
+# SidePane for single pages
+details_words: palabras
+details_read_time: minutos leyendo
+side_table_of_contents: Tabla de Contenidos
+side_attachments: Adjuntos
+side_related: Relacionados

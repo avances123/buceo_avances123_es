@@ -1,9 +1,0 @@
-module github.com/CaiJimmy/hugo-theme-stack-starter
-
-go 1.17
-
-require (
-	github.com/CaiJimmy/hugo-theme-stack/v3 v3.16.0 // indirect
-	github.com/CaiJimmy/hugo-theme-stack/v4 v4.0.0-alpha.0 // indirect
-	github.com/alex-shpak/hugo-book v0.0.0-20230424134111-d86d5e70c7c0 // indirect
-)

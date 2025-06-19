@@ -1,0 +1,17 @@
+.centered-profile {
+  text-align: center;
+  /* margin: 0rem auto 1rem; */
+  width: fit-content;
+}
+
+
+
+div#main-pane {
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+  width: 768px;
+  margin: 0 auto;
+  padding: 1rem;
+  padding-top: 0px;
+}

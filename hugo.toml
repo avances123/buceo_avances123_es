@@ -1,0 +1,61 @@
+baseURL = 'https://buceo.avances123.es/'
+title = 'Mis apuntes de buceo'
+theme = 'rusty-typewriter'
+
+languageCode = 'es'
+defaultContentLanguage = "es" 
+enableRobotsTXT = true
+
+# rtwt = Rusty Typewriter Theme
+[params.rtwt.side.home]
+taxonomies = ['tags']
+countTaxonomy = 10
+
+[params.rtwt.side.single]
+showAttachments = false
+
+
+[taxonomies]
+tag = 'tags'
+serie = 'series'
+
+[params.links]
+negocio = 'https://www.sidemount.es'
+
+[params.author]
+name = 'Fabio Rueda'
+
+[[menus.main]]
+name = 'Articulos'
+pageRef = '/articulos'
+weight = 1
+
+[[menus.main]]
+name = 'Tags'
+pageRef = '/tags'
+weight = 2
+
+
+[[menus.main]]
+name = 'Sobre mi'
+pageRef = '/about.md'
+weight = 3
+
+
+
+
+# build search index ================
+[outputFormats]
+ [outputFormats.SearchIndex]
+  mediaType = "application/json"
+  baseName = "searchindex"
+  isPlainText = true
+  notAlternative = true
+
+[mediaTypes]
+ [mediaTypes."application/json"]
+  suffixes = ["json"]
+
+[outputs]
+ home = ["HTML","RSS", "SearchIndex"]
+# ===================================
