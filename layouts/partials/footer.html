@@ -3,7 +3,7 @@
 	<div class="footer-copyright">
 		<div class="dim">© {{ now.Year }} {{ .Site.Params.author.name }}</div>
 		<div>
-      		{{- $NegocioAnchor := .Site.Params.links.negocio | printf "<a href=\"%s\" target=\"_blank\">Sidemount Spain</a>" -}}
+      		{{- $NegocioAnchor := .Site.Params.links.negocio | printf "<a href=\"%s\" target=\"_blank\"  rel=\"noreferrer\">Sidemount Spain</a>" -}}
 			{{- i18n "footer" (dict "NegocioAnchor" $NegocioAnchor ) | safeHTML -}}
 		</div>
 	</div>
