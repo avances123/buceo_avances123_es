@@ -142,7 +142,7 @@ Dejo aqui tambien el [pdf](topo_arquets.pdf)
 
 ### Video
 
-Esta el video en mi canal de youtube
+<iframe width="100%" height="455" src="https://youtu.be/uY9y9woe71Y?si=jSrOInV1necug6S2&amp;clipt=EMikBRiw2wY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Georeferenciación
 
