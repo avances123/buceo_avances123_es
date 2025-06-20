@@ -19,10 +19,12 @@
         {{- /* Autor */ -}}
         {{- $authorName := .Site.Params.author.name | default "Tu Nombre" -}}
         {{- $authorURL := .Site.Params.author.instagram_url | default "" -}} 
-        {{- if .Params.author -}}
-            {{- $authorName = .Params.author -}}
+
+        {{- $authorDict := dict "@type" "Person" "name" $authorName -}}
+        {{- if $authorURL -}}
+            {{- $authorDict = merge $authorDict (dict "url" $authorURL) -}} 
         {{- end -}}
-        {{- $schema = merge $schema (dict "author" (dict "@type" "Person" "name" $authorName)) -}}
+        {{- $schema = merge $schema (dict "author" $authorDict) -}}
 
         {{- /* Editor/Organización (Tu sitio) */ -}}
         {{- $publisher := dict "@type" "Organization" "name" .Site.Title "logo" (dict "@type" "ImageObject" "url" (absURL "images/logo.png") "width" 600 "height" 60) -}}
