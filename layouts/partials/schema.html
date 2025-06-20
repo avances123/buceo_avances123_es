@@ -18,6 +18,7 @@
 
         {{- /* Autor */ -}}
         {{- $authorName := .Site.Params.author.name | default "Tu Nombre" -}}
+        {{- $authorURL := .Site.Params.author.instagram_url | default "" -}} 
         {{- if .Params.author -}}
             {{- $authorName = .Params.author -}}
         {{- end -}}

@@ -24,6 +24,8 @@ negocio = 'https://www.sidemount.es'
 
 [params.author]
 name = 'Fabio Rueda'
+instagram_url = 'https://www.instagram.com/avances123/'
+
 
 [[menus.main]]
 name = 'Articulos'
