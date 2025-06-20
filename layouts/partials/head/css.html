@@ -6,7 +6,6 @@
   {{- else }}
     {{- with . | minify | fingerprint }}
       <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
-      <noscript><link rel="stylesheet" href="{{ .RelPermalink }}"></noscript>
     {{- end }}
   {{- end }}
 {{- end }}
