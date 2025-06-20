@@ -1,0 +1,66 @@
+{{- if .IsPage -}}
+    {{- $schema := dict "@context" "https://schema.org" -}}
+
+    {{- /* Schema para Artículos (Blog Posts de la sección 'articulos') */ -}}
+    {{- if eq .Type "articulos" -}}
+        {{- $schema = merge $schema (dict "@type" "Article") -}}
+        {{- $schema = merge $schema (dict "mainEntityOfPage" (dict "@type" "WebPage" "@id" .Permalink)) -}}
+        {{- $schema = merge $schema (dict "headline" .Title) -}}
+        {{- if .Params.description -}}
+            {{- $schema = merge $schema (dict "description" .Params.description) -}}
+        {{- else -}}
+            {{- $schema = merge $schema (dict "description" (plainify .Summary)) -}}
+        {{- end -}}
+        {{- $schema = merge $schema (dict "datePublished" (.PublishDate.Format "2006-01-02T15:04:05-07:00")) -}}
+        {{- if not .Lastmod.IsZero -}}
+            {{- $schema = merge $schema (dict "dateModified" (.Lastmod.Format "2006-01-02T15:04:05-07:00")) -}}
+        {{- end -}}
+
+        {{- /* Autor */ -}}
+        {{- $authorName := .Site.Params.author.name | default "Tu Nombre" -}}
+        {{- if .Params.author -}}
+            {{- $authorName = .Params.author -}}
+        {{- end -}}
+        {{- $schema = merge $schema (dict "author" (dict "@type" "Person" "name" $authorName)) -}}
+
+        {{- /* Editor/Organización (Tu sitio) */ -}}
+        {{- $publisher := dict "@type" "Organization" "name" .Site.Title "logo" (dict "@type" "ImageObject" "url" (printf "%s/images/logo.png" .Site.BaseURL) "width" 600 "height" 60) -}}
+        {{- $schema = merge $schema (dict "publisher" $publisher) -}}
+
+        {{- /* Imagen destacada del artículo */ -}}
+        {{- $image := "" -}}
+        {{- if .Params.image -}}
+            {{- $image = .Params.image -}}
+        {{- else if .Params.images -}}
+            {{- if reflect.IsSlice .Params.images -}}
+                {{- $image = index .Params.images 0 -}}
+            {{- else -}}
+                {{- $image = .Params.images -}}
+            {{- end -}}
+        {{- end -}}
+        {{- if $image -}}
+            {{- $schema = merge $schema (dict "image" (dict "@type" "ImageObject" "url" (printf "%s%s" .Site.BaseURL $image) "width" 1200 "height" 630)) -}}
+        {{- end -}}
+
+    {{- /* Schema para páginas generales (ej. Contacto, Sobre Mí) */ -}}
+    {{- else if eq .Type "page" -}}
+        {{- $schema = merge $schema (dict "@type" "WebPage") -}}
+        {{- $schema = merge $schema (dict "name" .Title) -}}
+        {{- $schema = merge $schema (dict "url" .Permalink) -}}
+        {{- if .Params.description -}}
+            {{- $schema = merge $schema (dict "description" .Params.description) -}}
+        {{- else -}}
+            {{- $schema = merge $schema (dict "description" (plainify .Summary)) -}}
+        {{- end -}}
+    {{- else -}}
+        {{- /* Schema por defecto para cualquier otra página que no sea artículo o página general */ -}}
+        {{- $schema = merge $schema (dict "@type" "WebPage") -}}
+        {{- $schema = merge $schema (dict "name" .Title) -}}
+        {{- $schema = merge $schema (dict "url" .Permalink) -}}
+    {{- end -}}
+
+    {{- /* Output del JSON-LD */ -}}
+    <script type="application/ld+json">
+        {{- $schema | jsonify (dict "indent" "  ") -}}
+    </script>
+{{- end -}}
