@@ -40,7 +40,7 @@ weight = 2
 
 [[menus.main]]
 name = 'Sobre mi'
-pageRef = '/about.md'
+pageRef = '/about'
 weight = 3
 
 
