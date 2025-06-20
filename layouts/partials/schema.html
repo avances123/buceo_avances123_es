@@ -61,6 +61,6 @@
 
     {{- /* Output del JSON-LD */ -}}
     <script type="application/ld+json">
-        {{- $schema | jsonify (dict "indent" "  ") -}}
+         {{- $schema | jsonify | safeJS -}}
     </script>
 {{- end -}}
