@@ -15,3 +15,30 @@ div#main-pane {
   padding: 1rem;
   padding-top: 0px;
 }
+
+
+
+/* Estilos para el contenedor de contenido lateral */
+.side-content {
+    /* Propiedades Flexbox para alinear contenido horizontalmente */
+    display: flex;
+    align-items: center; /* Alinea los elementos verticalmente al centro */
+    gap: 15px; /* Añade espacio entre el icono y el párrafo */
+    /* Asegúrate de que no haya propiedades como 'float' o 'width' fijas aquí que puedan interferir */
+    padding: 2px; /* Ejemplo de padding */
+    border: 1px solid var(--dim-color); /* Ejemplo de borde */
+    border-radius: 5px; /* Ejemplo de bordes redondeados */
+    margin-bottom: 5px; /* Espacio entre bloques de contenido lateral */
+    margin-top: 10px; /* Espacio entre bloques de contenido lateral */
+}
+
+/* Ajustes para la imagen del icono dentro de side-content */
+.side-content .side-content-image {
+    flex-shrink: 0; /* Evita que la imagen se encoja si el texto es muy largo */
+    width: 28px; /* Ajusta el tamaño del icono según tu preferencia */
+    height: 28px;
+    margin-top: 5px; /* Elimina cualquier margen superior por defecto que pueda tener la imagen */
+    /* Asegúrate de que tu `default "80%"` en el width del shortcode no interfiera, 
+       o ajusta el shortcode para que solo aplique estas clases/tamaños */
+}
+

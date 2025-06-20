@@ -2,3 +2,17 @@ home:
   greetings: 'Diario de un cave diver'
   text: 'Una recopilacion de ideas, experiencias, aventuras y opiniones acerca del espeleobuceo y el buceo técnico en general'
 
+side:
+  home:
+  - content: '@avances123'
+    imagePath: 'images/instagram.webp'
+    imageHref: 'https://www.instagram.com/avances123/'
+    imageWidth: '20%'
+  - content: 'Topografías'
+    imagePath: 'images/GitHub-Mark-ea2971cee799.png'
+    imageHref: 'https://github.com/avances123/topografias'
+    imageWidth: '20%'
+  - content: 'Cursos de buceo'
+    imagePath: 'images/logo.png'
+    imageHref: 'https://github.com/avances123/topografias'
+    imageWidth: '20%'
