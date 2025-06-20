@@ -42,7 +42,8 @@ pageRef = '/about.md'
 weight = 3
 
 
-
+[markup.goldmark.renderer]
+  unsafe = true
 
 # build search index ================
 [outputFormats]
