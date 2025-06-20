@@ -24,7 +24,7 @@
         {{- $schema = merge $schema (dict "author" (dict "@type" "Person" "name" $authorName)) -}}
 
         {{- /* Editor/Organización (Tu sitio) */ -}}
-        {{- $publisher := dict "@type" "Organization" "name" .Site.Title "logo" (dict "@type" "ImageObject" "url" (printf "%s/images/logo.png" .Site.BaseURL) "width" 600 "height" 60) -}}
+        {{- $publisher := dict "@type" "Organization" "name" .Site.Title "logo" (dict "@type" "ImageObject" "url" (absURL "images/logo.png") "width" 600 "height" 60) -}}
         {{- $schema = merge $schema (dict "publisher" $publisher) -}}
 
         {{- /* Imagen destacada del artículo */ -}}
