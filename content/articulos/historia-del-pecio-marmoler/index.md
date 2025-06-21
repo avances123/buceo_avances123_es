@@ -6,6 +6,7 @@ image: grande.png.webp
 draft: false
 tags:
     - Pecio
+    - Mar
 ---
 
 ## El pecio marmoler

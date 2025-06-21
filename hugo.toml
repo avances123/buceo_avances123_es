@@ -14,7 +14,13 @@ countTaxonomy = 10
 [params.rtwt.side.single]
 showAttachments = false
 
+[related]
+ includeNewer = true
+ [[related.indices]]
+  name = 'tags'
+  weight = 100
 
+  
 [taxonomies]
 tag = 'tags'
 serie = 'series'
