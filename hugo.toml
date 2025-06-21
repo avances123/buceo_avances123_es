@@ -6,6 +6,10 @@ languageCode = 'es'
 defaultContentLanguage = "es" 
 enableRobotsTXT = true
 
+[params.twitter] 
+site = "@avances123"
+creator = "@avances123"
+
 # rtwt = Rusty Typewriter Theme
 [params.rtwt.side.home]
 taxonomies = ['tags']
