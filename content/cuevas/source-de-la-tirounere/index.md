@@ -24,11 +24,11 @@ La cueva esta en el pueblo de Saint-Paul-de-Fenouillet en los pirineos orientale
 
 Aqui algunas fotos del rio y del camino desde el coche.
 
-![zona de aparcamiento](2.png)
-![azud del rio](3.png)
-![zona desde el coche hasta el rio](4.png)
-![superficie de la entrada a la cueva](5.png)
-![equipos en la esquina](6.png)
+![zona de aparcamiento](2.webp)
+![azud del rio](3.webp)
+![zona desde el coche hasta el rio](4.webp)
+![superficie de la entrada a la cueva](5.webp)
+![equipos en la esquina](6.webp)
 
 ### Logistica
 

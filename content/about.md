@@ -2,6 +2,7 @@
 title: "Fabio Rueda: Documentación de lo Inexplorado"
 description: "Conoce a Fabio Rueda: ingeniero informático y buceador de cuevas que fusiona sus pasiones para topografiar y documentar el mundo subacuático con rigor técnico."
 layout: simple
+draft: true
 ---
 
 <div style="float: left; margin-right: 20px; width: 33%;">
