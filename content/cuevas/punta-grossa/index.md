@@ -1,6 +1,6 @@
 ---
 title: "La Cova de Punta Grossa"
-description: description: "Explora Cova de Punta Grossa en l'Escala: una cueva submarina con galerías estrechas y una topografía detallada. Un relato de espeleobuceo y exploración." # <--- Pega aquí la descripción
+description: "Explora Cova de Punta Grossa en l'Escala: una cueva submarina con galerías estrechas y una topografía detallada. Un relato de espeleobuceo y exploración." # <--- Pega aquí la descripción
 date: 2023-07-20T12:23:42+01:00
 draft: false
 image: 1.png
