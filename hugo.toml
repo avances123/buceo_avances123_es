@@ -44,15 +44,17 @@ pageRef = '/articulos'
 weight = 2
 
 [[menus.main]]
-name = 'Tags'
-pageRef = '/tags'
+name = 'Mapas'
+pageRef = '/mapas'
 weight = 3
 
 
 [[menus.main]]
-name = 'Sobre mi'
-pageRef = '/about'
+name = 'Tags'
+pageRef = '/tags'
 weight = 4
+
+
 
 
 [markup.goldmark.renderer]

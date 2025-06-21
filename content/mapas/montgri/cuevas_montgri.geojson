@@ -6,8 +6,8 @@
         "properties": {
           "id": 1,
           "nombre": "El Mirador",
-          "url": "https://buceo.avances123.es/cuevas/el-mirador/",
-          "topografia": "https://buceo.avances123.es/cuevas/el-mirador/topo_el_mirador.png",
+          "url": "/cuevas/el-mirador/",
+          "topografia": "/cuevas/el-mirador/topo_el_mirador.png",
           "desarrollo": 67,
           "tipo": "cueva"
         },
@@ -24,8 +24,8 @@
         "properties": {
           "id": 2,
           "nombre": "La Finestra",
-          "url": "https://buceo.avances123.es/es/p/la-cova-de-la-finestra/",
-          "topografia": "https://buceo.avances123.es/es/p/la-cova-de-la-finestra/topo.png",
+          "url": "/cuevas/la-finestra/",
+          "topografia": "/cuevas/la-finestra/topo.png",
           "desarrollo": 40,
           "tipo": "cueva"
         },
@@ -42,8 +42,8 @@
         "properties": {
           "id": 3,
           "nombre": "Punta Grossa",
-          "url": "https://buceo.avances123.es/es/p/la-cova-de-punta-grossa/",
-          "topografia": "https://buceo.avances123.es/es/p/la-cova-de-punta-grossa/topografia.png",
+          "url": "/cuevas/punta-grossa/",
+          "topografia": "/cuevas/punta-grossa/topografia.png",
           "desarrollo": 42,
           "tipo": "cueva"
         },
@@ -60,8 +60,8 @@
         "properties": {
           "id": 3,
           "nombre": "La Xinxa",
-          "url": "https://buceo.avances123.es/es/p/la-cova-de-la-xinxa/",
-          "topografia": "https://buceo.avances123.es/es/p/la-cova-de-la-xinxa/topografia.png",
+          "url": "/es/p/la-cova-de-la-xinxa/",
+          "topografia": "/es/p/la-cova-de-la-xinxa/topografia.png",
           "desarrollo": 50,
           "tipo": "cueva"
         },
@@ -78,8 +78,8 @@
         "properties": {
           "id": 4,
           "nombre": "Les Cambres",
-          "url": "https://buceo.avances123.es/es/p/les-cambres/",
-          "topografia": "https://buceo.avances123.es/es/p/les-cambres/topografia.png",
+          "url": "/es/p/les-cambres/",
+          "topografia": "/es/p/les-cambres/topografia.png",
           "desarrollo": 90,
           "tipo": "cueva"
         },
@@ -96,8 +96,8 @@
         "properties": {
           "id": 5,
           "nombre": "L'Espirograf",
-          "url": "https://buceo.avances123.es/es/p/lespirograf/",
-          "topografia": "https://buceo.avances123.es/es/p/lespirograf/topografia.png",
+          "url": "/es/p/lespirograf/",
+          "topografia": "/es/p/lespirograf/topografia.png",
           "desarrollo": 40,
           "tipo": "cueva"
         },
