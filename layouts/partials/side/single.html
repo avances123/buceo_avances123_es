@@ -1,26 +1,5 @@
 {{- $baseURL := .Site.BaseURL -}}
 
-{{- if eq .Type "cuevas" -}}
-  <div class="side-cave-info">
-    <h3>Detalles de la Cueva</h3>
-    {{- with .Params.cave_image -}}
-      <img src="{{ . | relURL }}" alt="Imagen de la Cueva" style="width: 100%; height: auto; margin-bottom: 10px; border-radius: 5px;">
-    {{- end -}}
-    <ul>
-      {{- with .Params.profundidad_max -}} 
-        <li>Profundidad Máxima: {{ . }}m</li>
-      {{- end -}}
-
-      {{- with .Params.profundidad_media -}} 
-        <li>Profundidad Media: {{ . }}m</li>
-      {{- end -}}
-      {{- with .Params.longitud -}} 
-        <li>Longitud: {{ . }}m</li>
-      {{- end -}}
-    </ul>
-  </div>
-{{- end -}}
-
 {{- if site.Params.rtwt.side.single.showDetails -}}
   <div class="side-details">
     <span>{{- .WordCount }} {{ i18n "details_words" -}}</span>
@@ -40,7 +19,32 @@
   </div>
 {{- end -}}
 
-
+{{- if eq .Type "cuevas" -}}
+  <div class="side-cave-specific-details">
+    <h3>Detalles de la Cueva</h3>
+    <ul>
+      {{- with .Params.longitud -}}
+        <li>Longitud: {{ . }}m</li>
+      {{- end -}}
+      {{- with .Params.profundidad_max -}}
+        <li>Profundidad Máxima: {{ . }}m</li>
+      {{- end -}}
+      {{- with .Params.profundidad_media -}}
+        <li>Profundidad Media: {{ . }}m</li>
+      {{- end -}}
+      {{- if (and .Params.entrance_lat .Params.entrance_lon) -}}
+        <li>
+          <a href="https://www.google.com/maps/search/?api=1&query={{ .Params.entrance_lat }},{{ .Params.entrance_lon }}" target="_blank" rel="noopener noreferrer">
+            Situación
+          </a>
+        </li>
+      {{- end -}}
+      {{- with .Params.cave_image -}}
+        <img src="{{ . | relURL }}" alt="Imagen de la Cueva" style="width: 100%; height: auto; margin-bottom: 10px; border-radius: 5px;">
+      {{- end -}}
+    </ul>
+  </div>
+{{- end -}}
 
 
 {{- $hasToc := (ne .TableOfContents "<nav id=\"TableOfContents\"></nav>") -}}

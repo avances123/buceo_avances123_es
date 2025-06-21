@@ -23,7 +23,7 @@ En esta entrada explico desde el principio la idea, planificacion y ejecucion de
 
 Esta cueva está en la costa de l'Estartit, mirando a las islas Medas, en la pared que se sitúa al Norte de la punta del molinet. Es una pequeña cueva marina a -10m pequeña pero muy divertida y bonita. 
 
-## Planificacion
+## Planificación
 
 Sobre ella solo hay artículos en periódicos explicando un accidente que hubo hace años. No existe topografía más que la que han hecho los periodistas en este [reportaje](https://www.elperiodico.com/es/sociedad/rescate-cueva-arquets-estartit-guardia-civil-sh/index.html). 
 
@@ -147,7 +147,7 @@ Dejo aqui tambien el [pdf](topo_arquets.pdf)
 
 ### Video
 
-<iframe width="100%" height="455" src="https://youtu.be/uY9y9woe71Y?si=jSrOInV1necug6S2&amp;clipt=EMikBRiw2wY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="455" src="https://www.youtube.com/embed/uY9y9woe71Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Georeferenciación
 
