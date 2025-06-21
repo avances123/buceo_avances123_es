@@ -1,6 +1,6 @@
 ---
 title: "Cova de la finestra"
-description: "Una cueva en el montgrí con una burbuja que te lleva hasta mar abierto "
+description: "Explora la Cova de la Finestra en l'Escala: una cueva marina con túneles a mar abierto. Descubre su topografía, exploración y hallazgos recientes de espeleobuceo." # <--- Pega aquí la descripción
 date: 2022-11-18T22:23:42+01:00
 draft: false
 image: 2.png

@@ -1,6 +1,6 @@
 ---
 title: "Cova del mirador"
-description: "Diario de la exploracion de una cueva submarina en l'escala"
+description: "Explora la Cova del Mirador en l'Escala: una cueva submarina con pozo y estrechas galerías. Descubre su topografía y los desafíos del espeleobuceo." # <--- Pega aquí la descripción
 date: 2022-09-06T00:47:56+01:00
 lastmod: 2024-04-24T09:52:12+01:00
 draft: false

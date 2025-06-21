@@ -7,7 +7,9 @@ image: 1.png
 tags:
     - Topografia
     - Cueva
-
+entrance_lat: 42.83453586517904
+entrance_lon: 2.4800575025592786
+longitud: 50
 ---
 
 # La topografia de la Source de la Tirounére
