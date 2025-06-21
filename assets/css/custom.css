@@ -42,4 +42,10 @@ div#main-pane {
        o ajusta el shortcode para que solo aplique estas clases/tamaños */
 }
 
+.list-group-key {
+  margin-top: 15px;
+  text-align: right;
+  padding-bottom: .5rem;
+  border-bottom: 1px var(--dim-color) solid;
+}
 

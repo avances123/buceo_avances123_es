@@ -6,8 +6,8 @@
         "properties": {
           "id": 1,
           "nombre": "El Mirador",
-          "url": "https://buceo.avances123.es/es/p/cova-del-mirador/",
-          "topografia": "https://buceo.avances123.es/es/p/cova-del-mirador/topo_el_mirador.png",
+          "url": "https://buceo.avances123.es/cuevas/el-mirador/",
+          "topografia": "https://buceo.avances123.es/cuevas/el-mirador/topo_el_mirador.png",
           "desarrollo": 67,
           "tipo": "cueva"
         },

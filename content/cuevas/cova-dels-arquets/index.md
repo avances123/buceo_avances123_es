@@ -1,7 +1,7 @@
 ---
 title: "Cova dels arquets"
 description: "Diario de la exploracion de una cueva submarina en la costa brava"
-date: 2025-06-19T00:47:56+01:00
+date: 2022-06-19T00:47:56+01:00
 lastmod: 2025-06-19T00:47:56+01:00
 draft: false
 image: entrada.png.webp
