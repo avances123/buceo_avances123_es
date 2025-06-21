@@ -1,6 +1,6 @@
 ---
 title: "Moli d'ens Brotons"
-description: "Exploracion de un molino harinero sumergido"
+description: "Investigación y exploración del Moli d'ens Brotons, un molino harinero sumergido. Descubre los desafíos de acceso, buceo con baja visibilidad y documentación con drones." # <--- Pega aquí la descripción
 date: 2024-05-26T00:47:56+01:00
 lastmod: 2024-05-26T09:52:12+01:00
 draft: false

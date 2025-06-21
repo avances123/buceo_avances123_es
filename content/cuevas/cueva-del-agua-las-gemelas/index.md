@@ -1,11 +1,7 @@
 ---
 title: "Topografia detallada de las gemelas"
-description: "Un articulo sobre estas galerias cerca de la caverna de Cueva del Agua"
+description: "Topografía detallada de las Galerías Gemelas en Cueva del Agua (CDA). Descubre sus recorridos, restricciones y consejos para entrenar el espeleobuceo. Guía para buceadores." # <--- Pega aquí la descripción
 date: 2023-11-06T21:16:59+01:00
-image: banner.png
-math: 
-license: 
-comments: true
 draft: false
 tags:
     - Topografia
