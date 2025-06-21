@@ -3,8 +3,8 @@
 
 <h2>{{- $title -}}</h2>
 <div class="flat-list">
-  {{- $filteredItems := where $items "Type" "articulos" -}} 
-  {{- range first (default 5 site.Params.rtw_theme.params.home.countRecent) $filteredItems -}} 
+  {{- $filteredItems := where $items "Type" "in" (slice "articulos" "mapas" "cuevas") -}} 
+  {{- range first (default 5 site.Params.rtw_theme.params.home.countRecent) $filteredItems -}}
     <div class="flat-list-item">
       <div>
         <a href="{{- .RelPermalink -}}">{{- .LinkTitle -}}</a>

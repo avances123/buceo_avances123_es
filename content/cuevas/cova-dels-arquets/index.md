@@ -10,6 +10,11 @@ tags:
     - Topografia
     - Cueva
     - Mar
+longitud: 60
+profundidad_max: -14
+profundidad_media: -5
+entrance_lat: 42.0581307796585 # <--- Latitud de la entrada
+entrance_lon: 3.2123248044017476 # <--- Longitud de la entrada
 ---
 
 # La exploracion de la Cova dels Arquets
