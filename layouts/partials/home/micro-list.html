@@ -3,7 +3,7 @@
 
 <h2>{{- $title -}}</h2>
 <div class="flat-list">
-  {{- $filteredItems := where $items "Type" "in" (slice "articulos" "mapas" "cuevas") -}} 
+  {{- $filteredItems := where $items "Type" "in" (slice "articulos" "cuevas") -}} 
   {{- range first (default 5 site.Params.rtw_theme.params.home.countRecent) $filteredItems -}}
     <div class="flat-list-item">
       <div>
