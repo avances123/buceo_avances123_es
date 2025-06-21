@@ -1,21 +1,14 @@
 ---
-title: "La Cova de la Finestra"
-description: "Una cueva en el montgri con una burbuja que te lleva hasta mar abierto "
+title: "Cova de la finestra"
+description: "Una cueva en el montgrí con una burbuja que te lleva hasta mar abierto "
 date: 2022-11-18T22:23:42+01:00
 draft: false
 image: 2.png
-keywords:
-    - Buceo
-    - Cueva
-    - Exploracion
-categories:
-    - Exploracion
 tags:
     - Topografia
     - Cueva
     - Mar
-aliases:
-    - /p/la-cova-de-la-finestra/
+
 ---
 
 # La exploracion de la Cova de la Finestra
