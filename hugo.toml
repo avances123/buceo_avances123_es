@@ -21,10 +21,14 @@ showDetails = false
   name = 'tags'
   weight = 100
 
-  
+[rusty_typewriter]
+ [params.rtwt]
+  sidePane = true
+  countPageItems = 20 
+
+
 [taxonomies]
 tag = 'tags'
-serie = 'series'
 
 [params.links]
 negocio = 'https://www.sidemount.es'

@@ -1,9 +1,10 @@
 ---
-title: "Meterologia para el buceo"
+title: "Meteorologia para el buceo"
 description: "Guía completa para buceadores sobre cómo interpretar la meteorología marina. Explora fuentes especializadas y factores clave para planificar inmersiones seguras." 
 date: 2025-04-06T00:47:56+01:00
 lastmod: 2025-04-24T09:52:12+01:00
 draft: false
+
 tags:
     - Mar
     - Software
