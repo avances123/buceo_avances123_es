@@ -1,5 +1,5 @@
 ---
-title: "Topografia de los primeros 200m de Cueva del Agua"
+title: "Topografia de Cueva del Agua"
 description: "Topografía navegable de los primeros 200m de Cueva del Agua. Detalla hilos, referencias y poligonales para buceadores. Colabora en este proyecto open source." # <--- Pega aquí la descripción
 date: 2023-12-08T21:16:59+01:00
 tags:
