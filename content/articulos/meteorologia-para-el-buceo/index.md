@@ -4,7 +4,7 @@ description: "Guía completa para buceadores sobre cómo interpretar la meteorol
 date: 2025-04-06T00:47:56+01:00
 lastmod: 2025-04-24T09:52:12+01:00
 draft: false
-
+image: /images/og_image.webp"
 tags:
     - Mar
     - Software
