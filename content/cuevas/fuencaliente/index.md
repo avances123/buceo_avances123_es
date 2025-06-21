@@ -7,7 +7,10 @@ draft: false
 image: vlcsnap-2024-08-31-10h25m34s302.png
 tags:
     - Cueva
-
+entrance_lat: 40.2100555 # <--- Latitud de la entrada
+entrance_lon: -1.9166853 # <--- Longitud de la entrada
+longitud: 450
+profundidad_media: -5
 ---
 
 Esta cueva para mi es la mas bonita de toda la peninsula, esta en Uña provincia de Cuenca al lado de mi ciudad natal, asi que le tengo un cariño muy especial. Esta al lado de un pantano y el agua esta realmente congelada, sobre los 10ºC que hace replantearse el nombre que le han puesto.

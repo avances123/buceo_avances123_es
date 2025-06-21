@@ -5,7 +5,10 @@ date: 2023-12-08T21:16:59+01:00
 tags:
     - Topografia
     - Cueva
-
+entrance_lat: 37.57637489
+entrance_lon: -1.21954644
+longitud: 7169
+profundidad_media: -8
 ---
 
 ## Introduccion

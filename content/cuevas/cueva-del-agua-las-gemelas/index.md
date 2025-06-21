@@ -6,6 +6,10 @@ draft: false
 tags:
     - Topografia
     - Cueva
+entrance_lat: 37.57637489
+entrance_lon: -1.21954644
+longitud: 7169
+profundidad_media: -8
 ---
 
 ## Introduccion
