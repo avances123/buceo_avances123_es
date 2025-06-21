@@ -1,6 +1,6 @@
 ---
 title: "Cova dels arquets"
-description: "Diario de la exploracion de una cueva submarina en la costa brava"
+description: "Diario de la exploración y topografía de Cova dels Arquets, una fascinante cueva submarina en la Costa Catalana. Conoce la planificación y retos del espeleobuceo." 
 date: 2022-06-19T00:47:56+01:00
 lastmod: 2025-06-19T00:47:56+01:00
 draft: false

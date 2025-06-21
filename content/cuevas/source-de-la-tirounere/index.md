@@ -1,6 +1,6 @@
 ---
 title: "Source de la Tirounère"
-description: "La topografia en esta cueva en un rio espectacular"
+description: "Relato técnico de la exploración y topografía de la Source de la Tirounère, cueva submarina en Francia. Guía completa para buceadores técnicos y espeleobuceo."
 date: 2024-09-26T23:32:22+02:00
 draft: false
 image: 1.png

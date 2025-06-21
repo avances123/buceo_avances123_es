@@ -1,12 +1,13 @@
 ---
 title: "Historia del pecio marmoler"
-description: "Sus otros nombres, fotos y antiguos registros"
+description: "Descubre la fascinante historia del pecio Marmoler, un barco hundido en la Costa Brava. Conoce sus datos técnicos, orígenes y últimos días de navegación." # <--- Pega aquí la descripción
 date: 2025-06-20T01:04:39+02:00
 image: grande.png.webp
 draft: false
 tags:
     - Pecio
     - Mar
+
 ---
 
 ## El pecio marmoler
