@@ -1,13 +1,11 @@
 ---
 title: "Otra aplicacion para blender"
+description: "Desarrollo de una app Python para gas blending: calcula mezclas de Nitrox y el costo de recargar botellas de buceo con compresor. Proyecto de código abierto." # <--- Pega aquí la descripción
 date: 2023-01-07T16:28:39+01:00
 draft: false
 image: banner.png
-categories:
-    - Software
 tags:
-    - Gases
-    - Aplicacion
+    - Software
 ---
 
 
